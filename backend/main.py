@@ -1,14 +1,13 @@
 import os
 import shutil
 import json
+import csv
 from typing import List, Optional
 from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
-import database
-import auth
-import ml_pipeline
+from backend import database, auth, ml_pipeline
 
 app = FastAPI(title="Credit Risk Analysis API", version="1.0.0")
 
@@ -247,16 +246,10 @@ def upload_dataset(file: UploadFile = File(...), current_user: dict = Depends(au
         
     # Validate and map columns
     try:
-        df = pd.read_csv(filepath)
-        
-        # Auto-map/standardize dataset columns
-        mapped_df = ml_pipeline.map_kaggle_columns(df)
-        
-        # Save standardized CSV back to path
-        mapped_df.to_csv(filepath, index=False)
-        
-        row_count = len(mapped_df)
-        dataset_id = database.add_dataset(file.filename, filepath, row_count)
+        mapped_path = ml_pipeline.map_kaggle_columns(filepath)
+        with open(mapped_path, newline="", encoding="utf-8") as f:
+            row_count = sum(1 for _ in csv.reader(f)) - 1
+        dataset_id = database.add_dataset(file.filename, mapped_path, row_count)
         
         # Set uploaded dataset as active
         database.set_active_dataset(dataset_id)
@@ -302,18 +295,35 @@ def run_dataset_preprocessing(current_user: dict = Depends(auth.require_admin)):
             detail="No active dataset to preprocess. Generate or upload one first."
         )
     try:
-        df = pd.read_csv(active["filepath"])
-        # Mock preprocessing status
-        row_count = len(df)
-        num_cols = len(df.select_dtypes(include=[np.number]).columns)
-        cat_cols = len(df.select_dtypes(include=[object]).columns)
-        
+        with open(active["filepath"], newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            rows = list(reader)
+        row_count = len(rows)
+        if row_count == 0:
+            raise ValueError("Active dataset is empty")
+
+        numeric_cols = set()
+        cat_cols = set()
+        for key in rows[0].keys():
+            values = [row.get(key, "") for row in rows[:10]]
+            numeric_values = 0
+            for value in values:
+                try:
+                    float(value)
+                    numeric_values += 1
+                except Exception:
+                    pass
+            if numeric_values >= 7:
+                numeric_cols.add(key)
+            else:
+                cat_cols.add(key)
+
         return {
             "status": "Preprocessing successful",
             "active_dataset": active["filename"],
             "total_rows": row_count,
-            "numerical_features": num_cols,
-            "categorical_features": cat_cols,
+            "numerical_features": len(numeric_cols),
+            "categorical_features": len(cat_cols),
             "imputation": "Numerical: Median, Categorical: Mode",
             "normalization": "Standard Scaler Fitted",
             "encoding": "One-Hot Encoding Applied"

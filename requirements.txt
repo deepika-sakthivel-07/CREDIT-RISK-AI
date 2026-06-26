@@ -1,9 +1,5 @@
 fastapi
 uvicorn
-numpy
-pandas
-scikit-learn
-xgboost
 bcrypt
 python-jose
 python-multipart
