@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+frontend/node_modules/
+backend/data/
+api/__pycache__/
+.vercel/
+.git/
+*.log

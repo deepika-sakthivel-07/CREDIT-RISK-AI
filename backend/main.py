@@ -2,9 +2,11 @@ import os
 import shutil
 import json
 import csv
+from pathlib import Path
 from typing import List, Optional
 from fastapi import FastAPI, Depends, HTTPException, status, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from backend import database, auth, ml_pipeline
@@ -19,6 +21,10 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+static_dir = str(Path(__file__).resolve().parent.parent / "frontend" / "dist")
+if os.path.isdir(static_dir):
+    app.mount("/", StaticFiles(directory=static_dir, html=True), name="frontend")
 
 # Startup Seeding and Database Initialization
 @app.on_event("startup")
