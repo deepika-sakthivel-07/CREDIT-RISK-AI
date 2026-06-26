@@ -1,0 +1,1201 @@
+Age,Gender,Income,Employment Status,Loan Amount,Loan Term,Credit Score,Existing Debt,Education,Marital Status,Number of Dependents,Property Area,Loan Status
+56,Male,5576.78,Self-Employed,8511.07,120,461,25178.5,High School,Single,0,Semi-Urban,0
+69,Female,16482.5,Employed,122192.19,360,490,40082.13,Bachelor,Single,0,Semi-Urban,0
+46,Female,13159.91,Employed,10150.17,240,308,22076.7,Bachelor,Married,2,Rural,0
+32,Female,5688.93,Self-Employed,205804.34,36,359,24530.68,Bachelor,Married,1,Semi-Urban,0
+60,Female,17618.91,Employed,207089.17,120,524,42438.38,Master,Divorced,1,Semi-Urban,0
+25,Female,24791.47,Employed,197996.84,120,586,35302.91,High School,Divorced,0,Urban,1
+38,Female,19059.66,Employed,74424.2,240,468,24522.72,High School,Single,0,Rural,1
+56,Male,18889.68,Employed,210123.12,180,361,12884.78,Master,Single,0,Rural,1
+36,Male,23832.35,Employed,138034.54,180,648,44246.34,Associate,Married,4,Urban,1
+40,Female,6269.0,Employed,96582.99,360,741,28851.02,Bachelor,Divorced,0,Semi-Urban,0
+28,Male,14790.42,Employed,158205.84,24,313,11057.38,Bachelor,Married,3,Urban,0
+28,Female,24521.7,Employed,8023.56,60,463,13455.99,Associate,Single,1,Rural,1
+41,Male,5384.41,Self-Employed,40025.42,120,719,40156.65,Bachelor,Divorced,0,Semi-Urban,0
+53,Male,17955.92,Employed,186861.92,60,819,2207.28,High School,Single,1,Urban,1
+57,Male,15266.54,Employed,64819.59,12,847,49604.61,High School,Married,2,Rural,0
+41,Male,15282.26,Unemployed,151512.23,24,327,6517.58,High School,Divorced,3,Urban,0
+20,Female,17895.26,Employed,99350.14,180,745,39803.43,Bachelor,Single,0,Rural,0
+39,Male,23346.0,Employed,214427.42,240,507,19738.77,High School,Divorced,0,Semi-Urban,1
+19,Male,19890.68,Self-Employed,238341.75,120,769,24610.81,Bachelor,Single,0,Urban,1
+41,Male,2819.2,Student,221473.36,120,403,44032.53,Master,Divorced,0,Urban,0
+61,Male,21539.11,Self-Employed,71301.9,60,725,20645.56,Bachelor,Single,1,Urban,1
+47,Female,6800.22,Self-Employed,52569.9,240,400,26874.69,Bachelor,Divorced,3,Semi-Urban,0
+55,Male,10357.48,Self-Employed,121236.55,240,840,2464.98,Bachelor,Single,0,Semi-Urban,1
+19,Female,12350.72,Employed,6796.87,120,821,117.37,Associate,Married,2,Urban,1
+38,Female,12801.29,Self-Employed,11323.3,60,405,12239.99,Bachelor,Married,1,Urban,0
+50,Female,11726.74,Employed,140556.21,24,576,34029.15,Bachelor,Married,0,Urban,0
+29,Female,23527.8,Unemployed,132510.1,24,364,6063.24,PhD,Single,0,Semi-Urban,0
+39,Female,18091.45,Employed,248672.59,120,487,5688.1,Master,Married,2,Semi-Urban,1
+61,Female,16332.51,Employed,54451.25,240,616,20548.03,Master,Single,3,Urban,1
+42,Male,2671.29,Employed,68235.46,240,437,32391.85,Master,Married,1,Semi-Urban,0
+66,Male,22741.96,Self-Employed,32817.46,120,642,35603.6,Bachelor,Single,0,Urban,0
+44,Male,22870.67,Employed,229798.04,240,404,8922.53,Bachelor,Divorced,0,Rural,1
+59,Male,19835.01,Unemployed,195563.75,360,845,3979.41,Master,Single,0,Rural,1
+45,Female,1665.19,Self-Employed,206473.08,60,679,47019.85,Associate,Single,1,Semi-Urban,0
+33,Female,2846.09,Employed,226177.13,60,409,13033.32,Master,Single,2,Rural,0
+32,Male,6792.76,Self-Employed,133600.5,360,844,42667.32,Associate,Married,0,Rural,1
+64,Male,4586.71,Self-Employed,115542.33,60,653,43174.57,Bachelor,Single,2,Rural,1
+68,Male,10872.65,Employed,85945.91,360,616,38626.13,Bachelor,Married,1,Semi-Urban,0
+61,Female,23181.64,Employed,149357.58,360,565,8441.68,Master,Divorced,1,Urban,1
+69,Female,12593.42,Employed,116298.21,180,364,41090.07,High School,Married,4,Urban,0
+20,Male,1814.96,Employed,115633.57,240,632,38462.53,Bachelor,Married,0,Urban,0
+54,Female,8144.52,Employed,234547.33,180,812,29836.15,Bachelor,Single,3,Semi-Urban,1
+68,Female,2547.98,Unemployed,246087.72,180,432,16860.1,High School,Married,0,Urban,0
+24,Male,2352.76,Employed,200138.68,60,839,13125.43,Bachelor,Single,0,Urban,0
+38,Female,7979.42,Self-Employed,190405.73,24,834,6094.46,Bachelor,Married,3,Semi-Urban,1
+26,Female,7976.89,Employed,171736.75,60,795,25487.85,Bachelor,Single,3,Urban,0
+56,Male,19997.48,Employed,45688.34,180,668,29263.04,Associate,Married,1,Semi-Urban,1
+35,Male,24408.61,Self-Employed,19480.93,36,398,17966.95,Bachelor,Single,1,Rural,1
+21,Male,10223.37,Unemployed,174227.95,12,616,23767.95,Bachelor,Divorced,2,Semi-Urban,0
+42,Male,11578.84,Employed,183552.62,36,422,18175.72,Associate,Single,2,Semi-Urban,0
+31,Female,21352.55,Employed,16508.38,180,619,32050.3,High School,Married,0,Semi-Urban,1
+67,Female,7801.27,Employed,232372.68,360,794,45062.96,Master,Single,2,Semi-Urban,0
+26,Male,5174.97,Employed,27329.46,360,756,8196.01,Bachelor,Married,0,Urban,1
+43,Male,21547.61,Employed,75045.63,120,821,19070.44,Bachelor,Divorced,0,Rural,1
+19,Male,2592.76,Employed,169735.5,240,819,7043.43,Associate,Married,0,Urban,0
+37,Male,16062.94,Employed,46618.79,180,614,31247.19,Associate,Married,1,Urban,0
+45,Female,14706.83,Self-Employed,18576.89,120,841,36443.53,Associate,Divorced,3,Rural,0
+64,Male,9629.13,Employed,86130.89,120,778,46595.64,Associate,Married,1,Urban,0
+24,Male,8906.95,Employed,192663.04,36,319,13943.6,Bachelor,Married,4,Semi-Urban,0
+61,Male,19638.66,Employed,106351.28,360,429,47510.56,Bachelor,Married,0,Urban,0
+25,Female,3530.98,Self-Employed,164978.37,60,592,3163.13,Bachelor,Married,2,Urban,0
+64,Male,7064.43,Unemployed,147006.68,120,431,30150.69,High School,Single,2,Urban,0
+52,Female,18712.55,Employed,10443.53,180,655,2856.64,Bachelor,Married,1,Urban,1
+31,Male,14385.53,Self-Employed,247192.3,60,353,44688.71,High School,Married,1,Semi-Urban,0
+34,Female,4507.72,Employed,15149.88,60,686,26490.45,High School,Single,1,Rural,0
+53,Female,22230.19,Employed,242111.67,180,564,33467.42,Master,Married,3,Semi-Urban,0
+67,Male,10746.02,Employed,139716.72,12,514,41578.7,Bachelor,Single,2,Rural,0
+57,Male,20954.91,Employed,240973.96,180,759,7515.53,Bachelor,Single,0,Urban,1
+21,Female,20011.26,Self-Employed,33114.63,120,757,1929.58,Associate,Married,2,Urban,1
+19,Female,16174.0,Unemployed,125150.09,180,342,43944.06,Master,Divorced,0,Urban,0
+23,Male,13120.31,Employed,46528.5,180,577,15746.66,Bachelor,Divorced,0,Semi-Urban,1
+59,Male,24519.44,Employed,17488.84,120,429,6448.95,Bachelor,Divorced,3,Semi-Urban,1
+21,Female,4906.68,Employed,156294.63,120,649,23423.06,Associate,Divorced,0,Semi-Urban,1
+46,Female,18541.16,Employed,55906.94,180,843,29915.3,Master,Single,2,Rural,1
+35,Male,5992.98,Employed,148985.77,240,405,1548.53,Bachelor,Single,0,Semi-Urban,1
+43,Female,9449.18,Employed,32529.3,180,300,13744.78,Master,Married,0,Semi-Urban,0
+61,Male,8754.42,Employed,86336.69,240,731,1639.99,High School,Single,0,Rural,1
+51,Female,23755.35,Employed,196499.98,36,605,21016.77,High School,Married,0,Urban,1
+27,Male,24232.87,Employed,112077.62,120,826,44755.0,High School,Married,2,Semi-Urban,1
+53,Male,5800.86,Employed,158797.63,360,352,49132.62,High School,Single,0,Semi-Urban,0
+31,Male,2017.83,Self-Employed,163627.2,60,819,31852.38,Master,Divorced,0,Semi-Urban,0
+48,Female,18420.19,Employed,211719.99,36,629,8081.88,High School,Married,0,Urban,1
+65,Male,11322.76,Student,84606.08,120,624,45292.47,High School,Married,0,Semi-Urban,0
+32,Male,3587.75,Employed,173387.41,36,413,25812.39,High School,Divorced,2,Semi-Urban,0
+25,Male,17568.22,Self-Employed,240595.87,60,446,7687.47,High School,Married,0,Semi-Urban,1
+31,Male,14309.98,Unemployed,183909.62,360,465,46086.33,High School,Single,1,Urban,0
+40,Female,24542.15,Employed,125018.27,120,678,37873.45,Bachelor,Married,3,Rural,1
+57,Male,6844.12,Employed,159525.77,60,438,36585.26,Bachelor,Married,1,Rural,1
+38,Female,10993.48,Self-Employed,186222.31,360,598,35459.04,High School,Married,2,Semi-Urban,0
+33,Female,14249.83,Employed,155007.56,360,575,10016.99,Associate,Married,0,Semi-Urban,1
+62,Male,20104.95,Employed,9085.57,120,477,10550.33,Associate,Married,0,Rural,1
+35,Male,14397.71,Employed,52719.51,60,653,34414.65,High School,Single,3,Urban,0
+64,Male,15903.15,Employed,203564.71,240,453,10986.14,Bachelor,Divorced,2,Urban,1
+41,Male,6814.46,Employed,71799.41,180,500,21933.58,Bachelor,Divorced,1,Semi-Urban,0
+43,Male,21402.59,Student,184232.72,180,414,39100.09,Bachelor,Single,1,Rural,0
+42,Male,11572.82,Employed,96169.45,240,367,39197.63,Bachelor,Single,0,Urban,1
+62,Female,4812.55,Employed,132861.66,180,744,22663.09,High School,Divorced,0,Rural,0
+58,Male,17108.42,Student,21653.46,60,744,39609.5,Master,Divorced,2,Semi-Urban,0
+46,Male,6578.13,Employed,49400.26,180,625,41931.09,Bachelor,Divorced,1,Semi-Urban,0
+32,Female,3792.72,Student,239513.26,60,658,32738.79,Master,Divorced,0,Urban,1
+62,Male,21756.69,Employed,223083.82,240,444,11421.29,High School,Married,3,Urban,1
+18,Female,12313.81,Employed,164807.4,180,574,13700.59,Master,Married,0,Rural,1
+42,Female,19108.17,Self-Employed,117612.93,24,808,15742.06,Bachelor,Married,0,Rural,1
+24,Male,8328.81,Employed,170561.52,120,478,5840.21,Bachelor,Single,3,Semi-Urban,1
+26,Female,19993.8,Self-Employed,156559.52,60,776,13657.98,High School,Married,2,Rural,1
+41,Male,4130.49,Student,144295.3,60,713,10475.96,Bachelor,Married,1,Rural,0
+18,Male,9865.37,Self-Employed,19498.38,180,452,22766.44,Master,Married,0,Semi-Urban,0
+61,Male,24484.45,Employed,160036.64,60,403,45421.88,Bachelor,Married,0,Semi-Urban,0
+25,Male,20158.76,Unemployed,193385.41,240,374,5224.02,Bachelor,Married,1,Semi-Urban,0
+41,Female,13185.51,Employed,248550.01,24,427,36013.4,Master,Single,0,Semi-Urban,1
+28,Male,9484.77,Employed,7714.25,180,644,34364.15,Associate,Single,2,Urban,0
+68,Male,21995.19,Unemployed,183892.5,240,830,4787.71,Bachelor,Single,3,Semi-Urban,1
+34,Male,14303.92,Employed,145088.38,180,458,46128.62,Bachelor,Single,2,Urban,0
+25,Female,19322.99,Self-Employed,111342.78,120,837,28423.61,Master,Divorced,0,Rural,1
+52,Male,19221.53,Unemployed,36254.69,360,725,18186.28,High School,Single,2,Rural,0
+52,Female,1921.72,Self-Employed,105225.86,60,322,37826.93,Bachelor,Single,0,Urban,0
+50,Male,4466.96,Employed,91822.41,12,346,12868.27,Bachelor,Married,0,Urban,0
+22,Female,17001.29,Self-Employed,79193.32,120,824,34675.49,Bachelor,Married,0,Semi-Urban,1
+59,Female,5298.07,Employed,184065.51,12,443,1985.56,Bachelor,Single,0,Semi-Urban,0
+56,Female,7504.09,Unemployed,176677.75,360,718,41970.4,Master,Married,3,Urban,0
+58,Female,23745.99,Employed,149309.92,60,384,22408.54,Master,Married,0,Semi-Urban,1
+45,Male,14664.28,Employed,234972.88,240,715,31834.65,High School,Single,0,Urban,1
+24,Female,19142.14,Employed,90714.32,240,781,11061.89,Associate,Single,4,Urban,1
+26,Male,14612.55,Employed,64731.47,60,755,33853.69,High School,Divorced,0,Urban,1
+25,Male,14484.07,Employed,165696.31,180,596,38612.01,Associate,Married,2,Urban,0
+29,Male,3712.57,Self-Employed,53709.44,12,411,23660.66,Bachelor,Married,0,Rural,0
+51,Female,9576.09,Employed,82177.57,120,529,30886.35,Master,Single,0,Rural,1
+50,Male,8137.13,Employed,60027.6,12,395,22816.3,Bachelor,Married,3,Semi-Urban,0
+65,Female,10682.12,Employed,21942.62,360,677,44704.57,High School,Married,0,Semi-Urban,0
+40,Female,20261.09,Employed,207737.19,360,455,24893.46,High School,Single,1,Urban,1
+41,Female,10240.42,Employed,67362.43,60,720,42090.44,Bachelor,Married,0,Semi-Urban,0
+54,Female,12114.88,Employed,120891.74,60,404,40067.6,Bachelor,Married,0,Urban,0
+52,Female,10838.46,Employed,15612.24,240,629,20525.24,High School,Single,0,Semi-Urban,1
+61,Female,3695.09,Employed,176338.17,60,738,11504.22,Master,Married,0,Rural,0
+57,Female,11865.2,Employed,85987.45,240,431,20304.11,Master,Married,0,Urban,0
+39,Female,6096.82,Employed,187460.5,120,681,41310.87,Associate,Single,2,Rural,0
+44,Female,5888.0,Employed,106038.75,60,437,11381.63,Master,Married,0,Urban,1
+52,Female,3709.85,Self-Employed,52960.12,240,569,26221.82,Associate,Single,0,Semi-Urban,1
+18,Male,9881.77,Self-Employed,130727.9,120,849,40304.84,Bachelor,Married,0,Urban,0
+52,Male,19300.82,Employed,36973.62,360,695,17673.87,Bachelor,Single,3,Semi-Urban,1
+54,Male,7996.38,Student,112932.09,360,763,32110.48,High School,Single,3,Urban,0
+64,Male,8840.2,Employed,82739.84,36,749,12281.58,Master,Married,2,Semi-Urban,1
+31,Female,16602.85,Employed,228430.1,12,630,5463.97,Bachelor,Married,3,Semi-Urban,1
+20,Female,6102.26,Student,19927.54,360,552,39719.21,Bachelor,Divorced,0,Urban,0
+18,Female,22578.51,Employed,175034.27,360,584,4948.43,Associate,Single,0,Semi-Urban,1
+22,Male,13724.48,Student,49774.04,24,573,13569.07,High School,Single,1,Rural,0
+43,Female,12018.67,Employed,83166.04,240,319,42755.47,High School,Married,1,Semi-Urban,0
+31,Female,14608.77,Employed,106800.95,120,538,17323.46,Bachelor,Married,0,Urban,1
+56,Female,5401.81,Employed,227463.7,60,569,48652.27,Bachelor,Single,0,Urban,0
+44,Female,15916.62,Self-Employed,64431.68,240,717,48986.72,Associate,Married,4,Rural,1
+26,Female,10032.87,Employed,27370.66,36,609,13413.8,Bachelor,Married,2,Semi-Urban,1
+32,Male,22583.88,Self-Employed,83078.95,360,330,2048.91,Bachelor,Divorced,0,Semi-Urban,1
+32,Female,5468.07,Employed,30645.61,60,403,35253.16,Bachelor,Divorced,2,Urban,1
+43,Male,13415.7,Employed,36506.14,180,485,22549.33,Bachelor,Single,0,Semi-Urban,1
+59,Male,15555.65,Employed,145593.4,60,427,5037.64,Master,Married,0,Urban,1
+30,Female,2284.51,Employed,19920.97,120,509,35376.14,Bachelor,Single,0,Rural,1
+68,Male,10046.79,Unemployed,12578.07,180,713,1558.75,Bachelor,Married,0,Rural,1
+49,Female,18716.93,Employed,180031.45,36,580,43509.83,High School,Married,0,Urban,0
+56,Male,20778.87,Self-Employed,93603.54,120,552,6932.63,Associate,Divorced,2,Semi-Urban,0
+66,Female,8859.31,Self-Employed,35716.96,120,318,6365.59,High School,Married,0,Urban,0
+69,Male,20266.94,Employed,67135.13,24,435,8783.61,Bachelor,Divorced,1,Semi-Urban,1
+49,Female,24242.26,Employed,162311.19,240,522,48013.32,High School,Married,0,Rural,0
+21,Female,21636.54,Employed,72506.46,60,302,34658.47,Associate,Divorced,0,Semi-Urban,0
+47,Male,4264.63,Employed,126157.68,120,535,40068.58,Bachelor,Married,3,Urban,0
+54,Female,18883.66,Employed,34815.35,120,764,19881.75,Associate,Married,1,Urban,1
+40,Female,9012.17,Employed,149082.94,120,527,16815.64,High School,Single,4,Rural,0
+56,Male,24727.78,Employed,82439.03,36,798,11724.2,High School,Single,4,Semi-Urban,1
+62,Male,12905.94,Employed,158607.27,120,820,24032.4,Bachelor,Single,0,Semi-Urban,1
+32,Male,4377.2,Employed,203056.75,120,438,27591.44,High School,Married,0,Urban,0
+60,Male,18541.86,Employed,154853.37,180,575,31588.74,Bachelor,Married,3,Urban,0
+46,Female,9090.76,Employed,77458.15,240,590,12855.93,Bachelor,Married,4,Rural,0
+53,Female,24931.34,Self-Employed,67657.21,120,352,47432.7,Bachelor,Divorced,1,Semi-Urban,0
+30,Male,24524.89,Employed,85218.13,24,409,8487.92,Bachelor,Divorced,2,Semi-Urban,1
+49,Male,16919.15,Employed,45332.03,60,303,48282.66,Bachelor,Single,2,Semi-Urban,0
+24,Female,4550.92,Self-Employed,49387.1,36,346,742.81,High School,Single,0,Rural,0
+68,Male,17641.23,Employed,198719.32,36,393,24056.28,High School,Married,1,Urban,0
+39,Male,3686.22,Employed,99259.48,60,512,16668.39,High School,Single,2,Urban,0
+45,Female,2190.06,Employed,111818.82,60,735,22456.17,High School,Married,1,Semi-Urban,0
+19,Female,20839.52,Employed,150542.12,60,807,28533.23,High School,Married,0,Semi-Urban,1
+59,Female,6429.19,Employed,149465.11,24,504,21779.46,Associate,Married,0,Semi-Urban,0
+62,Female,10407.14,Employed,21507.33,12,680,20742.34,Bachelor,Divorced,0,Rural,1
+23,Male,24376.25,Employed,208727.49,36,372,36636.17,Bachelor,Married,0,Semi-Urban,0
+45,Female,9415.75,Employed,48445.01,36,815,34293.81,Associate,Single,3,Urban,0
+45,Male,8467.51,Self-Employed,182152.55,120,375,41663.56,Bachelor,Married,0,Rural,0
+61,Male,23077.89,Unemployed,194304.39,120,376,12497.95,Associate,Married,0,Semi-Urban,0
+61,Male,4102.59,Employed,180150.39,36,709,30476.43,High School,Single,0,Semi-Urban,0
+37,Male,19350.19,Self-Employed,146849.52,120,405,29259.74,Bachelor,Single,1,Semi-Urban,0
+47,Female,24719.54,Employed,8579.2,60,775,18486.89,High School,Married,1,Semi-Urban,1
+28,Male,22680.46,Employed,93292.0,36,574,24302.88,High School,Single,0,Urban,1
+45,Male,16814.2,Self-Employed,153185.66,12,387,15689.11,Associate,Single,0,Rural,0
+42,Male,8880.43,Employed,99925.57,120,376,7092.22,Master,Married,0,Rural,0
+56,Male,7476.57,Employed,216552.57,180,376,10690.06,Bachelor,Married,1,Semi-Urban,0
+50,Female,20752.49,Employed,80656.56,60,741,5275.68,High School,Single,0,Semi-Urban,1
+18,Male,22175.81,Employed,76916.02,36,839,34153.48,Bachelor,Single,3,Urban,1
+44,Female,13847.72,Unemployed,70169.43,240,544,33036.37,Bachelor,Married,0,Urban,0
+69,Male,7241.99,Unemployed,86531.31,60,681,47530.32,Bachelor,Single,0,Urban,0
+30,Female,4154.17,Self-Employed,141564.22,60,441,36483.92,Bachelor,Divorced,2,Urban,0
+58,Female,3548.72,Self-Employed,178218.75,240,667,2602.29,Associate,Married,0,Rural,0
+20,Male,18398.32,Employed,167329.14,240,383,44212.26,High School,Single,1,Rural,0
+56,Female,11372.79,Employed,202890.87,120,442,43133.76,Bachelor,Single,0,Semi-Urban,0
+23,Male,22775.96,Employed,222048.93,120,651,22166.02,Bachelor,Single,1,Semi-Urban,1
+25,Male,18882.28,Employed,204939.37,60,844,29293.15,Bachelor,Single,2,Urban,1
+44,Female,5994.62,Employed,9641.62,24,451,48803.92,Bachelor,Single,3,Rural,0
+26,Male,15923.77,Student,185299.9,120,457,26615.22,Master,Married,0,Semi-Urban,0
+54,Male,11734.38,Employed,56057.9,24,745,45266.09,Master,Single,0,Urban,0
+50,Female,15065.37,Employed,37567.37,120,602,4151.94,Master,Married,0,Semi-Urban,1
+68,Male,18844.62,Employed,161429.75,360,749,9552.59,Bachelor,Married,3,Rural,1
+59,Female,20445.6,Employed,83337.08,360,523,22037.75,Master,Single,3,Rural,1
+61,Male,21327.83,Self-Employed,18993.71,60,342,29237.84,High School,Single,0,Urban,0
+41,Female,7468.41,Employed,38719.28,180,563,40811.39,High School,Single,0,Rural,0
+32,Female,2231.22,Employed,5227.71,120,302,49413.11,Bachelor,Single,0,Urban,0
+49,Female,18873.43,Self-Employed,226289.79,240,567,19442.57,Bachelor,Married,0,Urban,1
+49,Female,3999.08,Employed,11031.41,60,315,2370.78,Bachelor,Single,0,Rural,0
+41,Male,8900.61,Employed,56316.66,12,633,40058.58,Bachelor,Married,0,Rural,0
+58,Female,1589.7,Employed,106984.38,36,763,30219.04,High School,Married,1,Semi-Urban,0
+69,Male,17519.23,Self-Employed,92359.97,60,358,9927.14,High School,Married,3,Semi-Urban,0
+66,Male,5427.6,Employed,228372.84,60,476,24741.42,Bachelor,Married,4,Rural,0
+66,Male,16899.14,Self-Employed,14870.79,240,362,37115.51,High School,Married,0,Rural,0
+69,Male,24805.95,Self-Employed,130492.6,180,606,38520.59,Associate,Single,1,Rural,1
+29,Male,3207.77,Employed,171717.47,60,545,24980.92,High School,Single,3,Semi-Urban,0
+56,Female,3311.33,Student,233266.0,120,588,15260.73,Associate,Married,0,Rural,0
+19,Female,9498.93,Self-Employed,156990.96,24,631,48687.13,Bachelor,Single,1,Rural,0
+20,Female,21860.08,Self-Employed,201920.03,240,826,33168.13,Associate,Married,0,Urban,1
+66,Male,6564.95,Self-Employed,25512.61,360,554,20411.88,Bachelor,Married,0,Rural,0
+54,Female,9968.88,Employed,99555.18,360,809,14023.16,High School,Married,0,Semi-Urban,1
+66,Male,3109.88,Employed,96617.05,240,762,36555.15,Bachelor,Married,0,Semi-Urban,0
+34,Male,19434.15,Employed,222140.61,36,498,12109.17,Associate,Married,1,Semi-Urban,0
+66,Male,11095.2,Employed,42085.94,12,570,8585.5,Bachelor,Married,0,Urban,1
+19,Male,19342.35,Employed,42212.11,120,363,26491.69,Bachelor,Married,0,Semi-Urban,1
+19,Female,22734.78,Unemployed,85496.75,360,529,14499.37,High School,Married,0,Rural,0
+45,Female,6969.93,Self-Employed,18344.18,36,548,31445.26,Master,Married,3,Urban,0
+40,Male,20473.81,Employed,49702.22,12,545,5896.93,Bachelor,Divorced,0,Semi-Urban,1
+54,Male,2888.71,Unemployed,241476.36,240,456,32747.06,Associate,Married,1,Rural,0
+49,Male,22622.91,Self-Employed,109905.07,24,387,14164.83,High School,Married,1,Semi-Urban,1
+50,Male,16793.06,Employed,159844.71,120,612,12.15,Master,Married,0,Semi-Urban,1
+18,Female,22044.33,Employed,182897.26,180,365,6346.8,Bachelor,Married,0,Semi-Urban,1
+36,Male,1504.43,Employed,94905.54,60,319,46680.77,High School,Single,2,Semi-Urban,0
+19,Male,5473.41,Self-Employed,41070.63,24,332,43367.73,Associate,Divorced,0,Semi-Urban,0
+61,Male,10659.35,Employed,55612.35,240,372,11680.45,Bachelor,Single,0,Rural,0
+43,Female,10418.32,Employed,81750.29,180,642,38918.6,Bachelor,Married,2,Semi-Urban,1
+49,Female,6828.16,Employed,160836.76,360,432,30428.58,Bachelor,Married,0,Rural,0
+23,Female,10467.88,Self-Employed,102578.73,60,354,48545.24,Associate,Divorced,0,Semi-Urban,0
+49,Female,4527.94,Self-Employed,6669.6,24,360,18680.28,Bachelor,Single,0,Urban,0
+21,Male,11199.89,Self-Employed,133234.76,180,819,34073.03,Associate,Married,0,Semi-Urban,0
+28,Male,20355.33,Student,230770.78,120,571,3176.79,High School,Married,2,Semi-Urban,1
+34,Female,12758.15,Self-Employed,203959.01,60,545,19812.37,Bachelor,Single,1,Semi-Urban,0
+55,Female,1923.0,Unemployed,207176.79,240,475,48190.88,PhD,Single,1,Urban,1
+41,Female,11403.93,Student,199789.21,60,616,26949.04,Associate,Married,2,Urban,0
+22,Female,2138.61,Self-Employed,84314.05,60,430,14393.98,Bachelor,Married,0,Urban,0
+69,Female,24206.72,Employed,192472.49,24,401,6013.55,Bachelor,Single,0,Urban,1
+51,Female,4495.17,Employed,40074.53,60,609,35176.42,Bachelor,Married,0,Semi-Urban,0
+23,Female,18130.68,Employed,166140.46,120,591,32242.8,Bachelor,Married,0,Urban,1
+39,Female,24360.24,Employed,162184.3,120,794,18696.94,Bachelor,Married,4,Rural,1
+28,Female,20911.92,Employed,11264.6,180,660,47547.07,High School,Divorced,2,Urban,1
+65,Female,17933.91,Employed,198052.68,360,637,1110.14,PhD,Married,0,Urban,1
+33,Male,21227.33,Student,226295.79,36,309,15186.19,Bachelor,Divorced,0,Semi-Urban,0
+50,Female,24572.27,Unemployed,70516.74,24,348,46053.47,Master,Divorced,0,Urban,0
+26,Male,16101.6,Self-Employed,204035.73,12,786,16046.77,Bachelor,Single,0,Rural,1
+23,Female,14640.84,Employed,25189.46,36,620,12612.64,Master,Single,0,Urban,1
+33,Female,16263.6,Employed,151992.13,180,432,26711.02,High School,Married,1,Semi-Urban,0
+46,Female,14017.88,Employed,123983.48,180,382,41190.09,Associate,Married,3,Rural,0
+20,Male,16424.59,Employed,138751.27,240,356,5157.34,Master,Married,2,Semi-Urban,1
+37,Male,12071.29,Employed,231920.27,60,675,47151.04,High School,Married,0,Urban,0
+53,Male,6633.41,Employed,218472.24,60,648,39753.64,High School,Married,0,Semi-Urban,0
+36,Female,4325.81,Unemployed,197345.5,120,570,9062.51,Bachelor,Married,1,Semi-Urban,0
+43,Male,3106.01,Self-Employed,72056.12,24,782,35600.4,Bachelor,Single,2,Rural,0
+20,Male,7687.92,Employed,228395.56,180,410,19247.94,High School,Divorced,2,Rural,0
+36,Male,2583.9,Employed,28889.38,360,375,20114.73,Master,Single,3,Urban,0
+37,Female,14828.51,Employed,214065.66,60,457,39164.5,Bachelor,Divorced,1,Rural,1
+49,Female,8169.97,Employed,85399.22,240,831,48139.24,Bachelor,Single,1,Urban,0
+24,Male,20876.57,Student,18174.22,120,628,6332.79,Bachelor,Divorced,0,Urban,1
+69,Male,3244.66,Employed,168992.46,36,421,21031.51,Associate,Single,1,Rural,0
+58,Male,6819.26,Employed,61663.58,120,340,24047.08,High School,Single,0,Urban,1
+50,Female,18660.78,Employed,64674.93,60,466,18815.59,High School,Single,0,Urban,1
+57,Female,15571.99,Employed,79981.56,12,322,18159.46,Bachelor,Married,1,Urban,0
+56,Male,3015.54,Employed,20602.77,180,578,2613.43,Bachelor,Divorced,0,Semi-Urban,1
+35,Female,22115.13,Self-Employed,48396.15,240,768,34276.93,Bachelor,Married,0,Semi-Urban,1
+57,Male,22115.65,Employed,6259.21,60,699,21810.72,Bachelor,Divorced,0,Semi-Urban,1
+18,Female,9264.59,Employed,114125.33,60,308,9739.69,Bachelor,Married,0,Urban,0
+28,Male,9499.54,Employed,25642.57,240,312,40801.68,Bachelor,Married,0,Semi-Urban,0
+45,Male,24742.17,Employed,172249.89,240,351,40128.04,High School,Married,0,Rural,1
+42,Male,16215.14,Unemployed,62727.6,180,508,24319.58,High School,Single,0,Rural,0
+67,Female,13985.94,Employed,236175.67,60,849,14922.53,Master,Single,0,Urban,1
+40,Female,21196.58,Employed,218456.65,360,701,31904.64,High School,Divorced,4,Rural,1
+48,Male,8204.32,Employed,75913.02,36,490,14407.61,High School,Divorced,0,Semi-Urban,0
+47,Female,11585.79,Employed,196887.79,180,350,11800.4,Bachelor,Divorced,0,Urban,0
+59,Female,7792.75,Employed,201795.0,12,692,36525.73,Associate,Divorced,1,Urban,0
+52,Male,20045.28,Employed,246707.96,180,599,2016.26,Master,Single,3,Urban,0
+24,Male,14973.71,Employed,151470.8,60,495,4738.42,High School,Married,1,Semi-Urban,1
+33,Female,16982.39,Unemployed,25081.6,120,716,339.41,High School,Married,0,Urban,1
+43,Male,7429.22,Employed,163475.12,60,719,7647.16,Associate,Divorced,1,Semi-Urban,1
+65,Male,6675.29,Student,158120.04,36,821,3449.5,Bachelor,Married,2,Urban,1
+69,Female,12976.8,Employed,161395.89,180,655,49790.12,Associate,Married,2,Rural,0
+66,Male,18832.8,Student,80250.68,240,447,14440.5,Bachelor,Married,1,Urban,0
+19,Male,13843.13,Self-Employed,215621.5,360,664,7463.4,Master,Single,3,Rural,1
+18,Male,2267.17,Employed,240070.68,36,663,12049.81,Master,Single,3,Rural,0
+65,Female,21910.96,Unemployed,58339.57,180,701,46806.28,High School,Divorced,1,Urban,0
+29,Male,3020.14,Employed,26597.28,180,791,26008.01,Bachelor,Married,0,Semi-Urban,0
+22,Male,23961.88,Unemployed,52661.08,60,528,18240.9,Bachelor,Single,1,Urban,0
+54,Male,2090.84,Employed,206035.27,12,836,43669.57,Master,Married,2,Rural,0
+49,Male,17819.59,Employed,170777.94,180,567,19749.51,PhD,Married,0,Semi-Urban,0
+26,Male,3431.87,Employed,160831.6,360,704,16750.43,High School,Married,4,Urban,0
+58,Male,22900.9,Student,103439.32,180,310,10364.13,Bachelor,Single,0,Urban,0
+52,Female,12414.18,Employed,146567.85,120,619,18889.84,Associate,Divorced,0,Semi-Urban,1
+36,Male,4731.81,Employed,80429.16,120,425,15834.22,High School,Married,3,Rural,1
+65,Male,9509.17,Self-Employed,121914.02,36,605,33865.2,High School,Married,0,Semi-Urban,0
+33,Male,5373.38,Self-Employed,199300.44,240,810,14479.14,Bachelor,Married,0,Rural,0
+20,Male,5508.67,Employed,245404.19,180,388,28859.99,Bachelor,Single,0,Semi-Urban,0
+37,Male,23780.55,Employed,233459.79,36,654,3294.61,High School,Married,0,Urban,1
+41,Female,11963.28,Employed,233797.16,240,651,9564.46,Bachelor,Single,0,Rural,1
+50,Male,20036.85,Employed,103544.82,60,313,20370.26,High School,Single,0,Urban,0
+41,Male,16530.73,Employed,119853.52,360,556,46847.46,Bachelor,Married,0,Rural,0
+69,Male,17396.02,Student,177880.67,60,508,18862.6,Associate,Divorced,4,Semi-Urban,0
+28,Female,4594.8,Employed,230937.02,36,580,33203.71,High School,Married,4,Urban,0
+66,Female,7003.33,Employed,39788.59,60,742,12754.36,Associate,Single,0,Semi-Urban,1
+25,Female,19988.63,Employed,79539.26,120,688,6351.68,High School,Married,2,Rural,1
+53,Male,24313.01,Employed,39115.48,24,782,2926.83,Bachelor,Divorced,0,Rural,1
+55,Female,7672.88,Employed,154942.09,120,446,15270.67,High School,Married,0,Urban,0
+57,Male,7881.87,Employed,80043.74,120,578,7883.05,Bachelor,Divorced,0,Urban,0
+37,Male,12613.08,Employed,84896.42,180,820,8700.52,High School,Married,4,Semi-Urban,0
+52,Male,24620.25,Unemployed,22374.41,12,733,38037.97,Bachelor,Married,3,Semi-Urban,0
+65,Male,7820.54,Employed,90700.04,120,443,791.9,Bachelor,Single,0,Semi-Urban,1
+42,Female,11063.84,Student,216311.64,24,588,27890.51,High School,Single,0,Urban,0
+52,Female,22449.78,Unemployed,62102.84,180,685,18973.07,Bachelor,Single,0,Rural,0
+42,Male,1568.64,Employed,175320.93,24,313,25327.5,High School,Married,1,Semi-Urban,0
+46,Female,2434.5,Self-Employed,159258.94,360,556,28141.51,Bachelor,Divorced,1,Rural,0
+35,Female,15695.68,Employed,216553.73,180,645,15668.38,High School,Divorced,0,Semi-Urban,1
+63,Female,22823.43,Employed,37410.55,120,644,14755.44,Bachelor,Single,2,Semi-Urban,1
+35,Female,7113.13,Self-Employed,244509.54,120,699,36670.09,Bachelor,Single,0,Rural,0
+19,Female,12536.58,Employed,147744.02,36,506,43563.85,Master,Single,3,Semi-Urban,0
+52,Female,12085.93,Employed,248891.17,60,471,9629.08,Bachelor,Single,1,Rural,0
+33,Female,12614.83,Self-Employed,228321.11,240,763,4880.94,Bachelor,Married,0,Rural,1
+58,Male,16129.21,Employed,59271.73,360,569,44889.79,Associate,Divorced,2,Semi-Urban,0
+53,Male,12538.98,Employed,18759.69,12,520,17494.77,Master,Divorced,2,Semi-Urban,1
+50,Female,12015.5,Unemployed,67631.58,120,451,27565.87,Bachelor,Married,0,Urban,0
+21,Male,12645.78,Employed,134253.09,180,482,17977.16,High School,Married,0,Urban,1
+50,Female,15385.38,Employed,47041.11,180,698,6290.12,Bachelor,Married,3,Urban,0
+31,Male,14119.68,Employed,46027.64,24,371,29466.58,Associate,Single,0,Urban,1
+38,Male,21572.2,Employed,118335.42,60,717,26257.04,Bachelor,Married,0,Urban,1
+65,Male,2663.18,Employed,13150.65,60,582,10149.68,Bachelor,Married,0,Urban,0
+37,Male,21082.95,Student,34862.58,240,373,22593.45,High School,Married,2,Semi-Urban,0
+25,Female,21332.23,Employed,106886.03,120,654,39847.38,Bachelor,Single,2,Semi-Urban,1
+24,Female,8195.34,Employed,20466.83,120,796,29521.31,High School,Single,3,Urban,0
+20,Female,12377.02,Self-Employed,102204.99,360,627,4845.87,High School,Single,1,Urban,1
+34,Female,11805.65,Unemployed,121131.54,180,834,27401.07,High School,Divorced,0,Semi-Urban,0
+50,Male,6634.98,Employed,115560.32,240,746,35136.91,Bachelor,Married,1,Semi-Urban,0
+65,Male,10824.73,Employed,217947.84,120,672,39635.17,High School,Married,2,Semi-Urban,0
+29,Female,2543.11,Employed,134865.3,36,661,31455.88,High School,Married,0,Semi-Urban,0
+68,Male,8028.82,Employed,119655.21,360,392,7632.91,Bachelor,Single,0,Rural,0
+39,Male,20692.03,Employed,105623.77,120,620,35508.66,High School,Married,0,Semi-Urban,1
+39,Male,8187.21,Employed,205317.73,36,623,33867.09,High School,Divorced,1,Semi-Urban,0
+63,Male,20727.86,Student,224288.87,60,683,1221.34,High School,Married,3,Rural,1
+47,Female,13992.59,Self-Employed,214044.4,24,645,20587.38,Associate,Divorced,1,Rural,0
+55,Female,22176.77,Employed,170018.91,120,402,16647.51,Bachelor,Single,4,Semi-Urban,1
+55,Male,15007.32,Employed,38653.63,240,514,33470.6,High School,Single,0,Semi-Urban,0
+62,Female,2197.2,Employed,72833.14,360,491,10806.79,PhD,Divorced,3,Urban,1
+68,Female,17372.37,Employed,16285.45,360,493,29543.6,Bachelor,Married,2,Semi-Urban,0
+25,Male,2554.06,Employed,233051.9,36,679,45660.3,Associate,Divorced,0,Rural,0
+44,Female,12089.03,Unemployed,166895.64,60,702,39890.12,Associate,Married,4,Semi-Urban,0
+44,Female,23341.53,Employed,187858.91,12,310,46072.89,Associate,Divorced,0,Rural,0
+51,Male,5382.29,Employed,81335.08,240,486,48925.3,Bachelor,Married,3,Semi-Urban,0
+38,Male,10662.0,Self-Employed,212185.11,60,314,533.51,High School,Married,3,Rural,0
+47,Male,18651.72,Employed,68602.8,180,596,31137.06,High School,Married,2,Semi-Urban,1
+50,Male,22233.08,Employed,5402.72,180,710,20641.97,Master,Single,1,Urban,1
+45,Male,17267.16,Employed,97221.67,120,351,42992.72,High School,Divorced,0,Semi-Urban,0
+64,Female,7567.07,Employed,144836.56,60,327,12590.74,Associate,Married,1,Urban,0
+50,Male,17353.28,Student,122282.69,360,316,49051.47,Master,Married,0,Urban,0
+22,Male,8473.1,Employed,216208.65,360,650,30685.4,Bachelor,Married,2,Rural,0
+65,Female,18383.09,Employed,30824.3,60,727,39676.87,Associate,Married,2,Urban,1
+36,Female,23919.78,Employed,140686.74,120,528,4279.98,Bachelor,Married,3,Rural,1
+21,Male,18452.75,Student,130679.94,360,509,9172.89,High School,Single,0,Urban,1
+52,Male,21777.69,Employed,73941.28,12,730,37920.18,Bachelor,Divorced,2,Urban,1
+66,Male,1549.44,Employed,206445.89,120,593,1099.33,Bachelor,Married,3,Rural,0
+34,Female,18362.94,Employed,189447.92,36,403,40843.9,Bachelor,Married,2,Semi-Urban,0
+61,Male,20995.31,Employed,184550.5,120,503,697.45,Master,Single,0,Semi-Urban,1
+45,Male,2453.13,Employed,219667.16,12,352,32855.94,Master,Single,0,Semi-Urban,0
+47,Female,21982.55,Employed,182082.23,120,674,18254.7,Master,Single,0,Semi-Urban,0
+46,Male,7532.31,Employed,61801.12,60,353,30574.74,Bachelor,Married,1,Rural,0
+63,Female,17134.36,Employed,177862.86,120,575,34801.57,Associate,Single,1,Semi-Urban,0
+23,Female,20308.34,Self-Employed,80387.19,360,634,17123.76,Bachelor,Divorced,4,Semi-Urban,1
+52,Male,17072.62,Employed,64332.79,240,330,5398.12,Bachelor,Single,0,Rural,1
+58,Female,3668.69,Employed,22885.88,240,434,3482.29,Master,Single,0,Urban,1
+54,Male,15513.56,Employed,187287.0,180,357,29446.8,High School,Single,1,Semi-Urban,0
+41,Female,14415.22,Student,179195.24,12,404,26032.77,Master,Single,2,Rural,0
+46,Female,22657.55,Employed,62452.37,60,565,37110.05,Bachelor,Married,3,Semi-Urban,1
+66,Female,10999.63,Unemployed,188597.86,360,821,25486.78,PhD,Divorced,2,Rural,0
+63,Male,9045.41,Self-Employed,229871.02,60,795,21122.29,Master,Married,0,Semi-Urban,0
+48,Female,19121.49,Employed,31467.09,36,552,19904.36,High School,Single,1,Rural,1
+52,Female,11197.87,Student,61995.98,180,594,1322.35,High School,Single,3,Rural,1
+50,Male,16683.26,Employed,188813.89,60,457,16777.86,High School,Married,0,Urban,1
+69,Female,16691.58,Employed,72254.14,60,848,48801.01,High School,Divorced,0,Urban,1
+38,Male,22368.92,Self-Employed,158042.67,360,366,43677.78,Bachelor,Single,0,Semi-Urban,0
+49,Male,15569.27,Self-Employed,24885.23,240,598,16468.9,Bachelor,Married,0,Semi-Urban,1
+40,Male,13300.61,Employed,115789.61,120,762,29389.77,Master,Married,2,Urban,1
+50,Male,4763.48,Employed,186077.4,360,400,42364.84,Bachelor,Single,0,Urban,0
+20,Male,4219.83,Employed,173195.92,180,355,22063.72,High School,Married,0,Urban,1
+35,Female,5126.56,Self-Employed,204692.66,180,631,897.89,High School,Single,0,Rural,1
+42,Male,5538.44,Employed,219975.77,12,692,3725.52,High School,Married,1,Semi-Urban,0
+59,Female,16490.11,Employed,194429.96,36,680,25519.64,Associate,Single,0,Semi-Urban,1
+48,Male,18913.06,Employed,169539.0,180,391,48471.97,Bachelor,Married,1,Urban,0
+20,Female,13954.8,Employed,12772.01,240,746,34660.48,High School,Single,0,Semi-Urban,0
+57,Female,20981.92,Unemployed,136066.83,180,408,3545.81,Associate,Divorced,0,Urban,0
+63,Male,24794.69,Employed,14235.94,36,616,9468.04,High School,Single,0,Urban,0
+41,Female,20770.3,Student,202976.62,36,467,38566.16,Bachelor,Divorced,0,Rural,0
+67,Male,17829.74,Employed,83577.51,240,734,42071.99,Bachelor,Married,0,Rural,1
+49,Female,14013.58,Self-Employed,142795.2,36,741,30884.73,Bachelor,Divorced,0,Urban,0
+64,Male,12048.05,Employed,73464.1,120,517,32221.16,Associate,Married,3,Urban,1
+39,Female,3483.22,Employed,196712.54,12,521,1416.87,Master,Married,1,Urban,0
+40,Male,10885.17,Employed,222193.12,24,827,41426.51,High School,Single,0,Semi-Urban,0
+19,Female,22888.16,Employed,102667.41,180,577,39413.76,Bachelor,Single,0,Urban,1
+44,Female,20488.53,Employed,216415.99,180,765,12951.76,Bachelor,Married,4,Urban,1
+59,Male,6577.21,Student,70433.38,60,329,35433.84,Bachelor,Single,1,Urban,0
+19,Male,12465.28,Employed,135991.93,60,658,10742.73,Master,Divorced,0,Rural,1
+43,Male,20693.0,Employed,215396.55,240,587,2016.51,Associate,Single,2,Semi-Urban,1
+34,Male,3083.54,Employed,84840.93,60,385,10056.83,Bachelor,Married,2,Semi-Urban,0
+57,Female,10603.73,Employed,238740.35,120,533,8931.44,High School,Married,2,Semi-Urban,1
+50,Male,21518.27,Employed,34860.48,360,612,16887.4,Bachelor,Married,0,Rural,1
+26,Male,10991.6,Self-Employed,9477.39,36,664,20922.47,High School,Married,0,Rural,0
+60,Male,3323.94,Student,226513.16,360,568,25426.94,High School,Single,0,Urban,0
+65,Female,14249.56,Employed,21818.92,36,430,23837.69,Bachelor,Married,3,Urban,0
+56,Male,21750.95,Employed,248012.85,120,650,13533.73,Bachelor,Single,1,Semi-Urban,1
+46,Male,15371.71,Employed,238092.23,60,479,1458.53,High School,Divorced,0,Urban,1
+59,Male,6817.56,Employed,38570.12,360,779,30255.08,Bachelor,Married,3,Semi-Urban,0
+43,Male,10529.63,Employed,136708.23,60,462,19787.24,Bachelor,Divorced,3,Semi-Urban,0
+52,Female,12077.9,Employed,50305.47,60,395,14933.61,High School,Single,4,Semi-Urban,0
+67,Male,15112.76,Employed,109898.02,360,809,43347.05,Bachelor,Single,3,Urban,0
+42,Male,19344.75,Employed,20049.16,120,664,37337.17,Bachelor,Single,4,Semi-Urban,0
+41,Female,3823.53,Self-Employed,59861.52,120,652,42888.28,Bachelor,Single,0,Rural,0
+30,Female,22406.82,Employed,94001.84,60,735,24749.14,Associate,Single,2,Urban,0
+24,Male,1789.28,Employed,112468.64,180,382,6546.56,Associate,Married,2,Semi-Urban,0
+53,Female,10196.23,Employed,244486.58,12,524,34811.07,Bachelor,Single,0,Urban,1
+62,Female,2144.38,Employed,202927.08,12,711,10303.69,Master,Married,0,Urban,0
+37,Male,10734.89,Unemployed,185665.44,120,417,22061.48,Bachelor,Divorced,4,Semi-Urban,0
+18,Female,13856.6,Unemployed,136575.12,60,781,3250.04,High School,Married,0,Urban,1
+25,Female,13524.51,Self-Employed,210799.45,360,491,41265.42,Bachelor,Single,3,Urban,0
+63,Male,5392.27,Employed,88134.09,360,406,6297.03,Master,Single,0,Urban,0
+33,Male,16674.9,Self-Employed,178680.28,180,681,45154.88,High School,Married,0,Semi-Urban,0
+31,Male,2552.29,Employed,248477.07,240,689,43211.53,PhD,Single,0,Semi-Urban,0
+29,Female,19404.81,Unemployed,82084.08,180,543,23229.14,Master,Married,0,Urban,0
+68,Female,23746.14,Employed,170134.3,36,767,37218.41,High School,Single,1,Semi-Urban,1
+40,Female,9484.57,Student,211857.14,240,837,30972.25,Master,Divorced,1,Urban,0
+32,Male,13655.13,Student,229372.86,60,509,40153.78,Associate,Married,0,Semi-Urban,0
+45,Female,10404.39,Self-Employed,180893.51,60,372,21590.26,Bachelor,Married,0,Semi-Urban,0
+51,Female,1657.69,Employed,74483.94,240,608,39290.42,Associate,Single,0,Semi-Urban,0
+19,Male,10568.05,Employed,84939.13,120,485,23122.84,Associate,Single,0,Rural,0
+49,Male,20105.43,Unemployed,10085.72,240,552,47048.29,Bachelor,Married,2,Rural,0
+40,Female,15505.74,Employed,191417.06,60,312,24318.61,Bachelor,Married,0,Urban,0
+39,Male,3879.61,Unemployed,15471.2,180,598,23130.96,High School,Single,0,Rural,0
+68,Female,21407.78,Employed,216839.83,24,375,39253.59,Bachelor,Single,0,Urban,0
+42,Male,13980.51,Employed,34071.85,180,350,41078.88,High School,Single,0,Rural,0
+39,Male,21280.5,Unemployed,47109.75,240,448,27724.46,Associate,Married,0,Urban,0
+39,Male,15135.21,Employed,121748.99,120,421,8989.89,Associate,Single,0,Semi-Urban,1
+66,Male,14652.68,Employed,185780.7,60,510,23387.91,Bachelor,Married,3,Urban,0
+69,Female,3973.59,Employed,39055.54,12,579,48403.63,Associate,Married,3,Urban,0
+59,Male,5432.95,Employed,112817.41,36,837,37649.31,High School,Married,2,Semi-Urban,1
+23,Female,24342.59,Self-Employed,123298.56,180,455,40558.13,High School,Divorced,0,Rural,0
+32,Male,6869.44,Employed,57009.98,360,537,1641.27,High School,Divorced,0,Semi-Urban,1
+60,Female,24470.12,Student,33311.8,60,675,23392.97,Bachelor,Married,1,Semi-Urban,1
+54,Male,13999.95,Unemployed,209923.13,180,381,32331.06,Master,Single,2,Rural,0
+50,Female,4691.04,Employed,128104.08,240,791,41501.63,High School,Married,4,Urban,0
+25,Female,3833.6,Self-Employed,8523.4,120,655,2463.68,Master,Married,0,Urban,1
+61,Male,6408.31,Employed,201730.42,180,572,42621.94,Bachelor,Married,0,Urban,0
+61,Male,23252.48,Employed,245294.48,240,343,27420.05,Bachelor,Married,1,Semi-Urban,0
+22,Female,11232.53,Student,153451.92,60,422,9865.7,Bachelor,Single,2,Urban,0
+56,Female,10792.71,Employed,128408.55,60,648,15862.76,Bachelor,Married,2,Urban,1
+21,Male,8860.35,Employed,220211.89,12,629,14096.48,High School,Single,1,Urban,0
+23,Female,4955.95,Employed,238366.61,360,708,26542.95,Bachelor,Married,4,Urban,0
+62,Female,12964.5,Employed,189861.54,360,622,2584.28,Bachelor,Single,1,Rural,1
+49,Female,4556.12,Employed,114135.97,240,410,7926.81,Bachelor,Married,3,Urban,0
+69,Female,21133.79,Self-Employed,150094.24,24,388,40634.65,Bachelor,Single,4,Semi-Urban,0
+47,Female,10204.33,Employed,176729.16,120,732,6630.2,High School,Married,2,Semi-Urban,1
+64,Male,10307.88,Employed,52597.02,36,398,11669.81,Bachelor,Married,0,Semi-Urban,0
+52,Male,12639.15,Employed,114564.25,12,838,22668.53,Bachelor,Single,0,Urban,1
+57,Male,11937.0,Employed,208306.21,180,445,25856.04,Associate,Married,1,Urban,1
+69,Female,24879.16,Employed,165407.71,360,556,38180.52,Associate,Married,0,Urban,1
+33,Female,14316.46,Employed,105745.0,360,488,22366.62,Bachelor,Married,3,Semi-Urban,0
+30,Male,3572.74,Employed,167523.82,180,539,39493.23,Master,Single,0,Urban,0
+67,Female,15761.62,Employed,33964.49,24,802,30917.32,Bachelor,Married,0,Semi-Urban,1
+59,Female,5062.23,Employed,103366.91,60,570,5654.99,Bachelor,Married,2,Semi-Urban,0
+47,Female,2227.03,Employed,199316.49,60,819,7816.57,Associate,Married,0,Semi-Urban,0
+36,Male,24312.44,Student,59024.65,240,849,21851.69,High School,Married,0,Semi-Urban,1
+34,Male,19678.16,Student,50560.57,240,413,19844.47,High School,Married,0,Semi-Urban,0
+36,Male,24532.56,Employed,237950.57,60,638,37177.21,High School,Single,1,Rural,1
+45,Male,12730.14,Unemployed,56424.92,120,658,29036.86,Associate,Single,0,Urban,0
+43,Male,14008.05,Self-Employed,68925.05,12,633,19406.65,Associate,Single,3,Semi-Urban,0
+54,Male,5455.92,Employed,242555.91,60,468,8538.01,Bachelor,Single,0,Rural,0
+43,Male,7302.32,Employed,185003.6,120,638,11341.86,Bachelor,Married,3,Semi-Urban,0
+40,Male,21205.91,Self-Employed,176401.15,36,560,28775.05,High School,Married,0,Urban,1
+26,Male,9870.36,Self-Employed,213966.96,120,498,21171.94,High School,Single,0,Semi-Urban,1
+29,Female,20930.15,Employed,33376.66,240,510,25746.38,High School,Divorced,0,Urban,1
+18,Male,18161.82,Self-Employed,177959.28,120,586,8533.87,Bachelor,Married,0,Urban,1
+18,Female,5663.52,Employed,128403.71,24,771,33145.31,High School,Divorced,1,Urban,0
+64,Female,13424.99,Self-Employed,208141.91,36,781,42626.94,High School,Married,0,Urban,0
+51,Male,17418.6,Student,129494.72,120,322,12896.98,Master,Married,0,Semi-Urban,0
+49,Male,7023.37,Employed,156959.13,60,408,24575.71,Bachelor,Single,1,Rural,0
+65,Male,21021.18,Self-Employed,122046.82,60,595,48776.37,High School,Single,0,Urban,0
+42,Female,14303.45,Employed,122148.94,120,305,16662.09,Associate,Single,0,Rural,0
+57,Female,5383.19,Employed,193152.64,120,849,29752.32,Associate,Married,2,Rural,0
+62,Male,15200.13,Self-Employed,158998.77,240,502,4509.79,Bachelor,Single,3,Rural,1
+18,Female,24993.27,Employed,160149.48,60,624,30300.75,Bachelor,Married,0,Rural,0
+33,Male,5037.26,Employed,115319.21,240,543,4481.59,High School,Single,0,Semi-Urban,1
+56,Male,20693.79,Employed,135121.83,60,626,47961.77,Bachelor,Married,4,Urban,0
+22,Female,6371.76,Employed,187700.83,24,346,35783.13,Associate,Single,0,Semi-Urban,0
+39,Male,19886.13,Employed,207355.53,120,312,39407.99,High School,Single,4,Semi-Urban,0
+46,Female,18762.58,Self-Employed,175657.54,120,679,35205.22,Associate,Single,0,Rural,1
+20,Male,8561.5,Employed,231397.88,360,664,29486.45,Bachelor,Married,3,Rural,0
+29,Female,9156.84,Employed,205979.4,180,641,22495.64,Associate,Single,0,Semi-Urban,1
+43,Male,20124.25,Employed,142656.63,360,520,42918.67,High School,Married,3,Urban,0
+33,Male,12343.97,Unemployed,169494.49,360,372,47841.78,Associate,Single,0,Urban,1
+68,Female,18674.22,Unemployed,231945.53,180,345,24951.81,High School,Single,1,Urban,1
+54,Male,4977.63,Student,156696.17,120,803,46576.75,Bachelor,Married,0,Semi-Urban,0
+39,Female,21535.11,Self-Employed,207077.7,120,573,29166.65,High School,Single,0,Semi-Urban,0
+46,Female,18205.79,Self-Employed,173758.57,360,507,26919.21,High School,Divorced,2,Rural,0
+31,Female,22813.16,Employed,140224.41,240,423,22724.14,Bachelor,Divorced,1,Semi-Urban,1
+45,Female,4610.75,Employed,64250.36,36,309,10464.39,Bachelor,Single,3,Rural,1
+22,Female,15435.84,Employed,109369.39,240,628,185.98,Bachelor,Single,0,Semi-Urban,0
+64,Female,15579.33,Self-Employed,242096.99,36,486,12075.31,Bachelor,Single,3,Rural,0
+66,Female,9806.33,Unemployed,166152.52,120,842,25486.16,High School,Married,0,Urban,0
+47,Female,12273.96,Employed,143276.87,60,359,18998.0,Bachelor,Married,4,Rural,0
+63,Male,2392.57,Unemployed,233574.37,180,741,22424.26,Bachelor,Married,4,Semi-Urban,0
+69,Male,19027.71,Employed,148695.39,240,516,49032.41,High School,Married,0,Urban,0
+22,Female,14409.08,Employed,133890.22,60,301,17513.62,Master,Single,3,Urban,0
+29,Male,2856.91,Employed,191031.16,24,835,22609.15,High School,Married,2,Rural,0
+33,Male,17497.76,Employed,179603.08,60,655,6675.78,PhD,Married,0,Urban,1
+43,Male,12469.38,Employed,52324.2,180,464,2397.89,Master,Married,1,Semi-Urban,1
+43,Male,2309.84,Employed,120470.53,60,390,38770.48,Bachelor,Divorced,0,Urban,0
+65,Female,24285.78,Employed,120766.28,60,466,28534.16,Master,Married,2,Semi-Urban,1
+38,Female,23804.14,Employed,97665.01,36,506,38035.24,Bachelor,Single,0,Rural,1
+56,Male,13553.21,Unemployed,131736.9,120,581,7493.14,High School,Married,0,Semi-Urban,0
+53,Male,3701.3,Self-Employed,106211.31,60,364,28591.44,Associate,Married,0,Semi-Urban,0
+50,Female,19233.6,Unemployed,53839.64,180,815,12682.12,High School,Single,1,Rural,1
+47,Male,13060.38,Employed,106029.79,24,456,11403.09,Associate,Divorced,3,Rural,0
+54,Female,8607.52,Employed,22707.85,180,605,576.3,Bachelor,Single,4,Rural,1
+40,Male,13048.33,Self-Employed,146067.54,60,694,6517.04,Associate,Married,0,Semi-Urban,1
+27,Male,13777.44,Employed,214145.36,120,373,15463.41,Associate,Married,0,Urban,0
+22,Female,14723.72,Employed,182695.34,60,486,5843.94,Bachelor,Single,2,Semi-Urban,1
+53,Male,11868.76,Employed,93296.54,180,636,49292.92,Master,Divorced,1,Semi-Urban,1
+51,Female,15735.25,Employed,26332.45,360,539,15431.63,High School,Divorced,0,Urban,1
+69,Female,23090.27,Employed,54526.6,360,832,6516.2,Associate,Married,0,Urban,1
+48,Male,10013.3,Employed,138645.13,120,440,9954.12,High School,Single,1,Urban,0
+27,Female,18554.34,Employed,55728.99,120,564,29385.16,Bachelor,Single,0,Semi-Urban,1
+36,Female,22519.64,Employed,138273.41,240,438,3202.18,High School,Single,2,Rural,0
+49,Male,12215.51,Employed,61741.76,180,758,43121.71,Bachelor,Single,1,Urban,0
+18,Female,11921.21,Employed,212986.35,36,369,48074.98,High School,Married,3,Semi-Urban,0
+22,Female,15649.75,Employed,102331.51,240,684,12337.37,High School,Divorced,1,Rural,1
+62,Female,15398.06,Employed,65159.9,120,497,22504.76,Master,Married,0,Urban,1
+21,Female,20454.85,Employed,204019.91,36,504,1106.72,High School,Divorced,3,Semi-Urban,1
+33,Male,12697.36,Employed,88995.55,60,730,32035.51,Associate,Married,1,Rural,0
+41,Female,24908.89,Employed,32314.48,60,624,20696.3,High School,Married,0,Rural,1
+33,Female,2897.58,Employed,144750.33,120,741,13502.92,Bachelor,Divorced,1,Urban,0
+19,Female,1574.44,Employed,147483.23,60,587,10341.86,Bachelor,Married,0,Urban,0
+66,Female,16544.66,Unemployed,180100.44,36,525,32701.15,Associate,Divorced,2,Urban,0
+45,Female,8513.22,Employed,63853.76,36,363,20810.85,High School,Single,0,Semi-Urban,0
+49,Male,7148.99,Employed,113723.98,120,797,8982.96,Associate,Single,2,Semi-Urban,1
+44,Female,8829.63,Employed,74180.14,180,359,34455.45,Bachelor,Divorced,0,Semi-Urban,0
+37,Female,7517.12,Employed,24833.67,60,696,28253.61,Bachelor,Married,0,Urban,0
+41,Female,2223.57,Employed,219770.39,12,556,42933.6,Bachelor,Divorced,4,Urban,0
+29,Female,24331.03,Employed,183573.1,36,538,5873.79,Bachelor,Divorced,2,Semi-Urban,1
+67,Male,6687.52,Self-Employed,78858.45,360,337,39283.33,High School,Single,0,Semi-Urban,0
+52,Male,18749.7,Employed,151846.38,120,324,33675.84,High School,Married,0,Semi-Urban,0
+50,Male,19421.02,Employed,54309.63,120,709,5750.55,High School,Single,0,Semi-Urban,1
+50,Male,23337.55,Employed,223107.97,12,760,34741.04,High School,Married,1,Urban,1
+68,Female,2217.91,Self-Employed,33152.05,180,716,22077.36,High School,Married,2,Urban,0
+60,Female,21993.14,Employed,5940.1,120,656,47249.24,Bachelor,Single,2,Urban,1
+54,Female,13889.82,Student,127992.01,60,682,7080.57,Bachelor,Married,1,Urban,1
+29,Male,16364.79,Employed,147866.32,36,457,32141.67,Master,Married,2,Urban,0
+20,Female,16645.05,Student,146846.5,60,732,19099.0,High School,Single,0,Urban,1
+18,Male,20765.25,Student,18355.42,240,347,47840.73,Bachelor,Married,0,Urban,0
+50,Male,9335.07,Employed,81940.73,240,627,16498.74,Bachelor,Married,1,Urban,1
+57,Female,18726.7,Employed,127303.74,180,732,48109.3,Bachelor,Divorced,4,Semi-Urban,0
+27,Female,13921.59,Employed,58061.9,180,730,45074.29,High School,Single,2,Urban,0
+60,Male,20144.76,Employed,218793.34,36,355,13519.16,High School,Single,1,Semi-Urban,1
+61,Male,24777.83,Self-Employed,26341.78,120,567,40177.09,High School,Married,1,Semi-Urban,0
+46,Male,6215.3,Employed,124409.19,180,368,49780.21,Associate,Single,3,Semi-Urban,0
+30,Male,24874.24,Employed,174396.93,60,748,12633.15,Bachelor,Divorced,0,Rural,1
+29,Female,3610.59,Employed,69129.02,240,556,21838.86,High School,Single,0,Urban,0
+48,Male,1554.46,Unemployed,157938.98,36,789,26009.04,High School,Married,4,Semi-Urban,0
+63,Male,2537.81,Employed,208199.36,60,348,14746.56,Bachelor,Married,3,Rural,0
+19,Male,9531.89,Employed,51632.56,180,615,763.24,Bachelor,Single,0,Rural,1
+68,Male,16373.3,Employed,229719.04,180,712,11006.46,Bachelor,Single,0,Urban,1
+67,Male,3122.19,Unemployed,140621.84,180,733,14096.84,Bachelor,Married,0,Urban,0
+52,Male,1633.15,Employed,78311.84,36,301,22179.99,Associate,Married,0,Urban,0
+40,Male,23521.64,Employed,110560.28,240,444,8555.12,High School,Single,4,Semi-Urban,1
+34,Male,20815.28,Employed,81487.01,120,665,43662.72,Associate,Divorced,0,Semi-Urban,1
+43,Female,20515.8,Employed,182652.23,120,719,35245.56,Bachelor,Single,3,Urban,1
+25,Male,22283.97,Employed,200093.66,360,743,4260.02,Master,Married,0,Semi-Urban,1
+46,Female,17950.81,Student,209069.66,180,733,32504.62,High School,Married,1,Semi-Urban,0
+43,Male,3953.5,Self-Employed,246513.22,36,356,32682.82,Bachelor,Single,0,Semi-Urban,0
+27,Female,10878.85,Employed,198864.65,240,477,47811.06,Associate,Divorced,2,Rural,0
+43,Female,18494.01,Unemployed,152339.1,24,592,151.04,Bachelor,Single,1,Rural,0
+51,Female,8087.86,Employed,88108.97,12,345,12396.62,High School,Single,1,Urban,0
+68,Female,17654.05,Self-Employed,138425.88,120,469,46389.57,Associate,Single,0,Semi-Urban,1
+58,Male,2075.71,Unemployed,15061.7,360,570,46606.7,Bachelor,Married,0,Urban,0
+24,Male,8694.23,Employed,187482.14,36,716,36029.32,Bachelor,Married,0,Semi-Urban,1
+21,Male,14404.56,Self-Employed,114259.11,180,438,38288.17,Bachelor,Married,0,Rural,0
+67,Female,16354.11,Employed,9905.69,36,546,4574.15,High School,Single,1,Rural,0
+62,Male,15060.46,Employed,20314.2,180,447,25693.79,High School,Single,1,Semi-Urban,0
+28,Male,17897.27,Employed,99929.28,120,529,11579.15,Associate,Married,1,Urban,1
+46,Female,1643.09,Employed,147938.27,180,673,9060.9,Bachelor,Single,1,Urban,0
+53,Female,3872.12,Self-Employed,118729.97,60,379,40515.16,Master,Divorced,0,Semi-Urban,0
+42,Female,21920.19,Student,156705.06,180,364,6751.91,Associate,Single,0,Urban,0
+38,Female,17521.09,Employed,122672.09,360,387,23432.58,Associate,Married,0,Semi-Urban,1
+53,Female,4153.89,Unemployed,167117.44,180,387,46928.91,Bachelor,Single,2,Urban,1
+27,Male,21288.75,Self-Employed,58685.89,120,503,9291.6,Associate,Married,1,Urban,1
+54,Male,7192.43,Employed,32646.58,360,681,48899.67,Bachelor,Single,0,Urban,0
+26,Male,12739.11,Employed,151126.32,12,775,49714.4,High School,Single,0,Rural,0
+41,Male,4912.12,Employed,123748.93,180,838,27780.86,Bachelor,Single,3,Semi-Urban,0
+52,Female,18187.59,Employed,11582.58,240,513,8507.14,Bachelor,Single,2,Urban,1
+66,Male,17171.08,Student,98218.06,24,373,15805.24,Bachelor,Single,1,Urban,0
+52,Female,6461.14,Employed,31000.77,120,360,21224.64,Bachelor,Married,0,Semi-Urban,0
+65,Male,21789.92,Self-Employed,135182.42,60,842,15466.21,High School,Married,0,Urban,1
+53,Female,10930.69,Employed,101965.53,120,518,14031.78,Bachelor,Married,4,Semi-Urban,1
+35,Female,8374.1,Employed,155222.22,180,311,48611.49,Bachelor,Married,2,Rural,0
+66,Male,5079.75,Employed,202372.54,60,714,7668.24,Associate,Married,0,Semi-Urban,0
+56,Male,7754.95,Employed,78418.83,120,331,36666.4,High School,Married,2,Semi-Urban,0
+49,Male,2017.63,Employed,240715.02,60,459,20.51,High School,Married,2,Semi-Urban,0
+41,Male,15206.55,Employed,136230.45,60,536,29809.13,Bachelor,Married,0,Rural,0
+40,Male,21292.42,Employed,156481.25,36,480,45797.15,Associate,Married,0,Rural,0
+49,Male,14401.04,Employed,171764.73,240,640,14396.7,Bachelor,Single,0,Semi-Urban,1
+54,Male,6652.94,Employed,168349.22,12,757,9276.3,High School,Single,0,Urban,0
+29,Female,2291.23,Unemployed,130187.83,240,379,32583.99,Master,Married,2,Semi-Urban,0
+66,Female,6543.76,Employed,110047.25,120,772,35630.07,High School,Single,0,Urban,0
+30,Female,11278.85,Employed,18176.58,60,411,34401.53,High School,Divorced,2,Semi-Urban,0
+40,Male,19350.87,Employed,10411.03,180,591,15965.84,Bachelor,Divorced,4,Semi-Urban,1
+42,Female,5914.31,Employed,92700.49,120,682,12610.12,Bachelor,Single,0,Urban,1
+52,Male,18415.1,Student,86746.92,120,316,47795.94,High School,Single,0,Urban,0
+58,Male,21872.94,Employed,99985.31,36,792,46164.98,High School,Married,2,Semi-Urban,1
+47,Female,12167.75,Employed,38900.21,60,630,22865.83,High School,Married,2,Rural,0
+34,Male,20803.65,Self-Employed,185851.23,60,785,42309.69,Bachelor,Single,2,Semi-Urban,1
+66,Female,14534.45,Employed,214956.28,12,705,22616.17,Bachelor,Married,0,Semi-Urban,0
+37,Female,16471.63,Employed,234985.09,60,416,21219.45,Bachelor,Married,0,Urban,0
+65,Male,13867.54,Employed,125628.76,24,414,7838.15,Bachelor,Single,1,Semi-Urban,1
+42,Male,12384.56,Employed,176712.1,60,848,21320.3,Bachelor,Single,4,Semi-Urban,1
+39,Male,7014.36,Employed,214610.03,24,846,26870.85,High School,Married,0,Semi-Urban,0
+30,Female,8625.06,Employed,107481.32,36,635,1125.22,Master,Single,3,Urban,1
+36,Male,8314.3,Unemployed,80806.13,36,635,22205.65,Bachelor,Married,0,Semi-Urban,0
+66,Male,14737.29,Self-Employed,234497.52,360,446,39067.81,High School,Married,4,Urban,0
+53,Male,4318.91,Employed,131340.76,12,421,34002.3,High School,Married,1,Urban,0
+29,Female,23044.6,Employed,126827.2,180,380,31757.85,High School,Divorced,0,Rural,0
+58,Male,18435.4,Unemployed,48711.94,36,674,45477.77,High School,Divorced,1,Urban,0
+36,Male,10933.97,Employed,31497.98,360,362,901.6,Bachelor,Single,0,Urban,1
+29,Female,5227.67,Unemployed,211316.18,24,803,27852.38,Bachelor,Single,0,Semi-Urban,1
+26,Female,22226.82,Self-Employed,155462.63,360,748,39367.44,Bachelor,Married,0,Rural,1
+24,Male,20858.79,Self-Employed,84827.02,180,727,27066.77,Bachelor,Married,0,Semi-Urban,1
+45,Male,18460.46,Employed,51975.37,12,726,16194.78,Bachelor,Single,0,Semi-Urban,1
+31,Male,7881.36,Employed,141096.83,240,720,6812.53,Bachelor,Divorced,2,Rural,1
+48,Female,10957.5,Employed,148060.23,120,621,44378.15,High School,Single,1,Urban,0
+69,Male,3914.58,Self-Employed,55713.43,60,465,23538.12,Associate,Single,0,Semi-Urban,0
+36,Male,5942.43,Employed,213594.41,240,760,43905.76,Bachelor,Single,3,Semi-Urban,0
+64,Female,19900.89,Self-Employed,25644.77,360,758,29292.61,High School,Married,1,Rural,1
+33,Female,18303.41,Employed,92242.81,120,488,33709.61,High School,Married,4,Urban,0
+22,Male,15446.92,Employed,171694.18,60,763,40213.06,Master,Single,1,Urban,1
+52,Female,22549.58,Employed,72159.49,240,678,32957.78,Bachelor,Single,0,Semi-Urban,1
+29,Female,15206.76,Employed,207780.42,180,301,19902.74,High School,Single,0,Semi-Urban,0
+42,Male,12473.75,Employed,186267.62,240,663,25681.67,Bachelor,Married,1,Semi-Urban,1
+69,Male,9498.71,Employed,198310.6,180,371,40152.28,Bachelor,Single,0,Semi-Urban,0
+38,Female,23600.54,Student,34181.1,60,726,18682.51,Associate,Divorced,0,Urban,1
+53,Male,3443.81,Employed,39434.05,360,469,19406.07,High School,Single,0,Semi-Urban,0
+40,Male,23375.85,Employed,75186.07,36,504,4784.51,Master,Divorced,0,Semi-Urban,1
+33,Male,20927.79,Employed,131928.91,60,636,45729.22,Associate,Single,0,Rural,1
+56,Female,4553.35,Unemployed,188263.94,120,771,4551.82,High School,Married,0,Urban,0
+62,Male,14777.13,Self-Employed,209950.07,120,494,32410.46,Bachelor,Single,0,Rural,0
+59,Male,21863.88,Employed,177562.15,12,574,20659.72,Bachelor,Single,1,Semi-Urban,1
+56,Male,14937.52,Unemployed,232506.24,240,306,20280.97,High School,Divorced,1,Urban,0
+31,Male,22819.2,Self-Employed,185992.16,60,477,33977.59,High School,Divorced,0,Semi-Urban,0
+48,Female,23660.12,Employed,80035.63,120,541,3354.69,High School,Married,0,Urban,1
+22,Female,11426.04,Employed,69944.91,240,502,29685.29,PhD,Married,0,Rural,0
+52,Male,10366.87,Employed,175567.15,60,842,38601.59,High School,Married,0,Rural,0
+40,Male,23503.55,Employed,52253.29,12,761,41410.64,Bachelor,Divorced,0,Urban,0
+46,Female,17365.79,Self-Employed,27715.13,36,379,8526.52,Master,Single,0,Urban,1
+60,Male,4226.53,Employed,135394.6,360,822,44870.95,High School,Married,1,Semi-Urban,1
+28,Male,2493.86,Unemployed,206302.18,24,716,32807.3,PhD,Married,1,Semi-Urban,0
+35,Female,14768.78,Employed,29838.06,60,683,44092.74,Master,Single,0,Semi-Urban,0
+64,Female,23359.02,Employed,199013.37,120,690,24264.04,Master,Divorced,0,Urban,1
+29,Male,21339.84,Employed,203835.14,120,425,27101.67,High School,Single,1,Semi-Urban,1
+26,Male,17382.42,Employed,123157.13,12,793,45951.91,Bachelor,Single,3,Urban,0
+27,Male,4769.22,Self-Employed,19041.03,120,346,44995.48,Bachelor,Married,2,Rural,0
+61,Male,7474.44,Self-Employed,47774.51,60,775,22408.04,PhD,Married,1,Rural,0
+34,Male,22074.51,Employed,178319.44,360,763,13720.63,High School,Single,0,Semi-Urban,1
+55,Male,5795.97,Employed,179385.6,36,422,19658.52,Bachelor,Single,0,Rural,0
+24,Male,8043.33,Employed,225097.04,60,773,19388.22,Associate,Divorced,3,Urban,0
+63,Female,4545.62,Employed,147758.11,120,433,14343.34,High School,Single,0,Urban,0
+30,Female,17388.54,Employed,35406.31,60,322,13428.98,Associate,Married,4,Semi-Urban,0
+57,Male,23683.58,Employed,34746.65,180,534,43053.15,Bachelor,Married,1,Semi-Urban,1
+59,Male,7820.75,Employed,181677.43,60,358,3493.1,Bachelor,Married,1,Semi-Urban,0
+26,Female,12672.06,Student,50027.24,60,463,33880.56,Bachelor,Divorced,0,Rural,0
+67,Male,16406.98,Employed,85454.45,180,515,8641.0,PhD,Married,1,Rural,1
+44,Male,24987.46,Employed,124366.94,120,482,17225.29,Associate,Married,0,Semi-Urban,1
+19,Female,3962.99,Employed,11067.4,120,389,3077.15,Bachelor,Married,0,Rural,0
+22,Male,13216.41,Employed,65960.66,36,610,13498.68,Associate,Married,0,Urban,1
+46,Female,10550.32,Employed,104932.95,36,556,38421.05,Associate,Married,3,Urban,1
+54,Female,21846.77,Unemployed,73510.9,12,832,44250.77,Bachelor,Divorced,1,Semi-Urban,0
+55,Male,12685.24,Self-Employed,38410.73,24,832,11076.36,Master,Single,0,Semi-Urban,1
+36,Male,4107.97,Employed,183363.0,120,351,23177.39,Bachelor,Single,0,Semi-Urban,0
+25,Male,16408.97,Employed,204221.18,240,637,23516.2,Bachelor,Single,2,Urban,1
+65,Female,19613.34,Employed,68082.35,60,470,43678.77,High School,Single,2,Semi-Urban,0
+62,Female,1567.71,Self-Employed,194732.78,60,366,38139.95,High School,Single,1,Urban,0
+18,Female,21685.48,Employed,99460.62,36,599,25653.86,Bachelor,Divorced,1,Semi-Urban,1
+39,Male,5871.54,Employed,129138.02,60,531,33537.36,High School,Married,0,Urban,0
+69,Female,14473.63,Employed,214720.26,12,367,42367.75,High School,Married,1,Urban,0
+34,Female,11271.24,Employed,188738.65,360,805,476.95,Bachelor,Married,0,Urban,1
+24,Female,18411.86,Employed,202253.63,180,327,20144.5,High School,Married,3,Urban,0
+42,Female,10222.3,Student,38527.07,360,350,45362.16,High School,Married,1,Rural,0
+62,Female,21939.43,Employed,22081.26,240,559,37015.65,Bachelor,Divorced,0,Urban,1
+21,Female,18666.66,Employed,223884.16,120,483,27142.07,Bachelor,Single,0,Urban,1
+53,Female,16721.26,Employed,100019.4,120,322,26482.23,Master,Divorced,2,Semi-Urban,0
+23,Male,20211.65,Unemployed,75530.52,36,428,17388.5,Bachelor,Married,0,Semi-Urban,0
+48,Male,19219.54,Student,182550.58,120,590,26026.03,Associate,Single,0,Urban,0
+36,Female,2344.56,Employed,209921.82,360,800,32769.16,Master,Married,1,Urban,0
+61,Male,10776.26,Self-Employed,216309.96,24,485,20918.15,Bachelor,Married,0,Rural,0
+56,Female,23373.97,Employed,82419.3,240,778,35707.66,High School,Single,2,Semi-Urban,1
+44,Female,4454.52,Employed,213792.04,60,791,43061.61,High School,Married,0,Semi-Urban,0
+27,Female,18821.77,Employed,15028.82,240,812,7734.24,Bachelor,Single,2,Semi-Urban,1
+43,Male,24402.91,Employed,17167.07,360,366,22577.35,Bachelor,Single,0,Urban,1
+36,Male,2726.67,Employed,157762.2,180,766,20401.0,Bachelor,Divorced,0,Urban,0
+56,Male,17531.56,Employed,20461.06,180,584,34373.24,Bachelor,Married,3,Semi-Urban,0
+20,Female,12501.62,Employed,84529.25,120,716,12493.37,Bachelor,Divorced,1,Rural,1
+62,Female,15110.62,Unemployed,169825.22,240,399,32012.55,PhD,Married,0,Urban,0
+30,Female,3505.52,Employed,87630.39,360,488,43874.46,Bachelor,Single,0,Rural,0
+67,Male,2510.66,Employed,49001.95,240,687,20906.58,High School,Married,1,Urban,0
+45,Female,17171.37,Employed,73930.9,180,540,45550.78,Bachelor,Married,1,Urban,0
+37,Female,20847.77,Self-Employed,117105.96,180,716,49658.19,High School,Divorced,4,Urban,0
+45,Male,19877.36,Employed,121469.53,240,475,5304.6,Bachelor,Single,4,Urban,1
+25,Female,14279.43,Employed,196835.06,120,686,11652.66,Master,Divorced,1,Rural,1
+58,Male,3846.87,Student,188787.54,240,770,47518.99,Bachelor,Divorced,0,Semi-Urban,0
+56,Male,17669.04,Employed,116920.36,120,532,47916.38,Bachelor,Married,0,Urban,0
+18,Female,7184.39,Employed,212188.5,24,751,4885.36,Bachelor,Divorced,1,Rural,0
+20,Male,22910.11,Self-Employed,32988.1,60,576,749.93,Associate,Single,0,Rural,1
+30,Female,21199.24,Employed,67561.57,120,528,8055.0,Associate,Divorced,0,Rural,1
+45,Female,18170.5,Employed,207854.23,36,470,49800.64,Bachelor,Married,0,Rural,0
+66,Female,23797.88,Employed,97608.54,36,512,8999.98,Bachelor,Single,0,Urban,1
+42,Male,2238.41,Employed,245389.48,120,581,25127.38,Bachelor,Divorced,0,Rural,0
+50,Male,18800.71,Employed,119232.05,24,340,42420.89,High School,Married,0,Semi-Urban,0
+55,Female,9260.71,Employed,199024.23,60,421,1020.08,Bachelor,Married,2,Rural,0
+23,Male,22792.55,Employed,103565.23,180,526,30224.45,Bachelor,Married,0,Rural,1
+61,Male,7766.87,Employed,109113.61,360,593,13851.27,Bachelor,Single,0,Urban,1
+62,Male,18534.13,Self-Employed,98806.37,180,566,43116.75,Bachelor,Married,0,Rural,0
+49,Female,22124.7,Employed,181173.53,360,840,14173.06,Bachelor,Married,1,Urban,1
+62,Male,2478.94,Employed,139141.88,180,750,34337.79,Bachelor,Single,0,Urban,0
+64,Female,10844.72,Unemployed,236225.64,60,748,33710.98,Associate,Single,1,Urban,0
+38,Female,19414.26,Employed,66468.13,180,360,11074.68,Master,Single,4,Rural,0
+33,Male,12190.59,Employed,29637.87,180,801,1739.96,High School,Married,0,Urban,1
+38,Male,7780.44,Student,101349.06,60,446,20462.48,PhD,Married,0,Semi-Urban,0
+28,Female,6665.43,Employed,156094.61,12,633,14459.66,High School,Married,0,Semi-Urban,0
+54,Female,4590.68,Employed,215895.74,180,441,40448.89,High School,Divorced,4,Rural,0
+53,Female,21642.54,Self-Employed,89818.24,12,343,40018.21,Master,Married,2,Urban,0
+52,Female,15020.85,Employed,165177.75,180,443,22851.2,High School,Single,3,Rural,0
+36,Male,3295.05,Employed,90798.68,36,632,30325.61,Bachelor,Divorced,0,Rural,0
+37,Male,10490.64,Employed,156218.8,120,796,30212.98,Bachelor,Married,4,Semi-Urban,0
+35,Male,10141.74,Employed,221777.95,120,695,41357.91,Master,Married,0,Semi-Urban,0
+64,Male,5770.87,Employed,61682.62,12,354,21250.12,PhD,Married,0,Semi-Urban,0
+58,Male,11734.43,Unemployed,104039.2,60,606,13772.33,High School,Divorced,3,Rural,0
+66,Male,9304.34,Employed,248349.97,180,722,13251.75,Bachelor,Married,3,Rural,1
+31,Male,9532.39,Unemployed,217796.47,240,716,26809.61,High School,Single,0,Urban,0
+32,Female,18867.12,Employed,143336.77,240,624,22457.41,Associate,Married,0,Rural,1
+48,Female,6746.69,Self-Employed,131573.76,120,379,22006.04,Bachelor,Single,0,Semi-Urban,0
+18,Male,16583.71,Self-Employed,74727.09,180,330,4556.87,Associate,Single,0,Semi-Urban,1
+20,Female,14910.27,Employed,131716.31,60,411,35930.19,Bachelor,Married,0,Rural,0
+33,Male,14850.17,Employed,212804.47,60,771,10686.83,Bachelor,Single,4,Urban,1
+40,Female,17080.67,Employed,172867.76,36,373,9847.68,Bachelor,Single,1,Rural,0
+28,Male,14386.98,Employed,76060.79,120,778,20637.92,PhD,Single,2,Semi-Urban,1
+29,Female,22162.5,Unemployed,54358.66,60,686,11388.92,High School,Married,2,Rural,0
+27,Female,17376.13,Self-Employed,69976.09,24,732,29192.91,Bachelor,Married,1,Urban,1
+49,Male,14353.64,Employed,46591.0,180,711,18573.17,Master,Divorced,2,Semi-Urban,1
+33,Male,20999.43,Employed,28431.97,180,766,22445.59,Bachelor,Single,1,Rural,1
+25,Male,15744.44,Employed,107688.36,60,547,26858.47,High School,Married,0,Urban,1
+55,Male,8341.89,Employed,32758.4,24,419,10176.78,Bachelor,Divorced,1,Urban,0
+29,Male,6366.73,Employed,47118.58,120,366,7787.58,Associate,Single,1,Rural,0
+41,Female,5079.7,Self-Employed,139094.55,120,626,44021.1,High School,Married,2,Urban,0
+45,Male,22637.2,Student,45326.82,180,769,21686.19,Bachelor,Married,4,Rural,1
+25,Female,18188.18,Employed,20650.54,60,792,20604.68,Bachelor,Single,0,Urban,1
+45,Female,23528.39,Employed,82760.27,180,585,1780.61,Master,Divorced,2,Semi-Urban,1
+53,Male,15677.36,Employed,58978.18,240,611,24898.82,Bachelor,Married,0,Rural,1
+43,Female,12624.92,Employed,131249.77,60,608,27708.49,Bachelor,Single,2,Semi-Urban,0
+25,Male,2903.34,Employed,30079.94,360,396,27942.04,High School,Single,0,Semi-Urban,0
+67,Female,17283.59,Employed,189183.84,60,412,35351.56,Associate,Single,0,Semi-Urban,0
+45,Male,15181.91,Unemployed,227027.21,60,755,8874.09,High School,Single,0,Rural,0
+45,Female,24769.91,Employed,187141.62,120,762,12611.16,Master,Married,1,Urban,1
+54,Female,7120.23,Employed,135542.62,24,431,40536.52,High School,Married,0,Semi-Urban,0
+58,Male,13972.33,Unemployed,215863.62,36,420,47358.53,High School,Single,3,Urban,0
+53,Male,16797.5,Self-Employed,175255.0,120,496,6796.64,Bachelor,Divorced,0,Semi-Urban,1
+44,Female,16647.89,Employed,7585.03,240,781,24882.48,High School,Single,3,Urban,1
+34,Female,14690.4,Employed,101552.09,360,338,10708.81,High School,Single,2,Urban,0
+26,Male,19757.81,Employed,213483.22,180,811,3003.66,Bachelor,Single,0,Semi-Urban,1
+50,Male,6317.06,Self-Employed,89735.42,36,773,16275.17,High School,Married,0,Urban,1
+37,Female,18552.24,Self-Employed,13627.72,180,460,7184.38,High School,Married,2,Urban,1
+30,Male,16063.76,Employed,187814.01,180,588,35496.65,Associate,Single,1,Semi-Urban,0
+45,Female,22557.77,Employed,201499.38,240,499,26686.27,Bachelor,Single,1,Semi-Urban,1
+65,Male,21409.07,Self-Employed,44345.46,240,827,7191.72,Bachelor,Married,0,Rural,1
+46,Male,8905.96,Employed,136648.42,240,802,462.08,Associate,Divorced,0,Semi-Urban,1
+30,Female,7991.58,Employed,52029.08,120,547,40407.85,Bachelor,Single,4,Urban,1
+63,Male,24568.85,Employed,181212.43,180,682,8809.72,Associate,Single,0,Semi-Urban,1
+52,Male,13890.73,Employed,71529.86,60,517,30310.83,Master,Married,0,Urban,0
+23,Male,22800.89,Employed,82472.71,360,386,16846.1,High School,Married,0,Rural,1
+35,Male,5351.2,Self-Employed,212017.86,36,381,29274.3,Bachelor,Single,2,Rural,0
+68,Female,16606.24,Student,121698.98,12,361,15782.68,Master,Divorced,2,Semi-Urban,0
+22,Male,20531.71,Employed,169089.84,36,799,4346.98,Bachelor,Married,0,Semi-Urban,1
+64,Female,23763.79,Employed,103581.4,240,341,11147.5,High School,Married,0,Urban,1
+42,Female,9427.49,Employed,78011.68,120,311,9402.93,High School,Married,0,Semi-Urban,0
+19,Female,18537.06,Employed,158242.12,120,414,21400.97,Bachelor,Divorced,0,Rural,0
+27,Male,14162.11,Employed,42940.11,360,517,32914.19,High School,Married,0,Urban,0
+47,Male,2924.78,Unemployed,96384.96,360,405,13190.3,Bachelor,Single,4,Urban,0
+67,Female,17714.99,Employed,56214.07,60,827,603.5,Bachelor,Single,0,Semi-Urban,1
+62,Female,17717.27,Employed,175469.77,60,771,25946.87,Bachelor,Married,0,Semi-Urban,1
+22,Female,23369.26,Employed,236331.17,240,686,30287.97,High School,Single,3,Semi-Urban,1
+50,Male,13186.84,Unemployed,248900.19,360,525,48143.52,Bachelor,Married,0,Rural,0
+18,Male,6910.9,Self-Employed,115317.82,120,780,29473.54,Bachelor,Married,1,Urban,0
+35,Female,2547.25,Student,66869.95,180,707,23558.63,Bachelor,Married,0,Semi-Urban,0
+49,Female,11267.59,Self-Employed,113493.2,60,756,28670.08,High School,Divorced,0,Semi-Urban,0
+64,Female,8595.04,Employed,212581.01,240,320,46395.03,High School,Single,3,Urban,0
+66,Female,19385.58,Employed,55471.39,180,502,41418.91,Associate,Divorced,1,Semi-Urban,1
+28,Female,9825.29,Employed,238263.43,120,716,16148.94,High School,Married,0,Urban,1
+38,Male,23803.17,Employed,88757.11,24,715,11862.72,Bachelor,Single,1,Urban,1
+43,Male,24114.29,Employed,246521.9,360,747,13131.68,Master,Married,3,Urban,1
+42,Male,16091.35,Employed,210459.18,180,811,25221.05,Associate,Single,0,Rural,1
+39,Male,23323.52,Employed,203099.78,36,384,37202.47,Bachelor,Married,1,Semi-Urban,0
+44,Female,19380.08,Employed,82886.65,180,466,25160.96,High School,Married,4,Rural,0
+66,Male,14351.2,Employed,7150.42,180,683,3389.82,High School,Single,0,Urban,1
+30,Male,5737.24,Self-Employed,98622.56,120,767,36179.04,High School,Married,2,Semi-Urban,1
+50,Male,12277.05,Employed,78943.3,180,371,40298.51,Associate,Married,1,Semi-Urban,0
+51,Male,14680.55,Employed,14162.26,120,820,14474.89,Master,Single,1,Rural,0
+58,Male,21803.1,Employed,128814.49,360,772,33206.29,High School,Single,0,Semi-Urban,1
+52,Male,12811.33,Employed,103742.67,24,557,21329.6,Bachelor,Married,0,Semi-Urban,1
+18,Female,22595.35,Employed,160466.33,36,574,44455.97,Bachelor,Married,1,Urban,0
+38,Male,17347.2,Employed,157190.65,36,319,42261.28,Master,Divorced,0,Semi-Urban,0
+65,Female,4719.48,Employed,34582.93,180,789,26271.6,High School,Divorced,0,Semi-Urban,0
+23,Male,24882.06,Employed,244356.56,180,789,34575.28,High School,Married,0,Rural,1
+45,Male,13889.97,Employed,50798.2,240,625,44167.49,High School,Married,0,Urban,0
+34,Male,10708.67,Employed,114092.14,180,828,24785.85,Associate,Married,4,Urban,1
+22,Female,16989.17,Employed,124588.8,120,388,15662.54,High School,Married,0,Semi-Urban,1
+48,Female,4058.99,Employed,204200.39,360,785,37683.31,Master,Single,4,Urban,0
+22,Male,16458.66,Employed,29311.25,60,649,11003.31,Bachelor,Single,0,Urban,1
+55,Male,13208.55,Employed,110017.85,240,383,19426.56,Bachelor,Married,1,Rural,0
+20,Female,11056.84,Employed,158983.03,120,686,43286.36,Bachelor,Single,0,Semi-Urban,0
+40,Male,23895.97,Employed,57713.13,180,386,36221.12,High School,Married,2,Rural,0
+54,Male,13779.68,Employed,158729.64,180,606,20190.55,Associate,Married,2,Rural,1
+54,Female,6649.26,Employed,231297.89,180,453,10737.23,PhD,Single,0,Urban,0
+27,Female,12285.64,Unemployed,249391.94,36,739,17798.42,Bachelor,Married,3,Semi-Urban,0
+27,Male,23105.6,Self-Employed,12950.51,120,563,14205.21,Master,Divorced,0,Urban,1
+36,Female,5638.24,Self-Employed,62719.12,120,720,8804.46,Bachelor,Married,1,Rural,1
+34,Female,6527.99,Employed,81025.24,240,792,37166.65,High School,Single,4,Semi-Urban,0
+38,Male,1806.19,Employed,102785.89,120,710,12603.49,High School,Single,3,Semi-Urban,0
+31,Female,1833.47,Employed,64353.0,360,472,22708.37,High School,Married,4,Urban,0
+26,Female,20990.7,Employed,54854.56,120,303,19292.97,Associate,Married,0,Semi-Urban,1
+63,Male,18704.88,Employed,238865.69,120,771,49103.87,High School,Single,0,Urban,0
+18,Male,9843.46,Employed,230037.79,240,409,19554.61,Bachelor,Single,0,Semi-Urban,1
+68,Male,17910.31,Unemployed,16513.16,120,336,3999.12,Bachelor,Divorced,1,Rural,0
+62,Female,10787.34,Employed,88009.19,360,330,4491.29,Master,Married,2,Rural,0
+30,Male,23893.07,Self-Employed,104261.4,180,680,29537.69,Bachelor,Divorced,0,Urban,1
+21,Female,24225.74,Employed,63558.56,120,567,29968.18,Master,Married,1,Semi-Urban,1
+18,Female,10730.65,Employed,159073.86,12,310,20937.95,High School,Divorced,0,Rural,0
+66,Male,21574.21,Employed,161893.28,120,643,21592.18,High School,Single,0,Urban,1
+57,Female,19667.59,Employed,213373.54,60,843,2696.63,Bachelor,Married,1,Rural,1
+49,Male,8785.0,Self-Employed,186512.97,180,465,25827.33,High School,Single,0,Urban,0
+51,Female,6952.94,Employed,137930.47,60,641,25236.97,High School,Married,2,Semi-Urban,0
+45,Female,12268.51,Employed,165128.76,60,781,7477.47,Associate,Married,0,Semi-Urban,1
+48,Male,19861.7,Self-Employed,72127.25,36,318,5191.97,High School,Single,2,Semi-Urban,1
+25,Male,24063.94,Employed,150298.77,36,483,6178.62,Bachelor,Divorced,0,Rural,1
+56,Male,19444.11,Student,124860.68,60,844,5051.41,Associate,Divorced,0,Urban,1
+43,Male,21597.36,Employed,37669.39,240,309,30485.41,Bachelor,Single,1,Urban,0
+51,Male,15672.01,Employed,64423.35,240,491,9824.13,Bachelor,Married,3,Semi-Urban,1
+20,Male,21132.08,Employed,76464.9,180,619,12571.51,Associate,Single,0,Rural,1
+67,Female,19933.89,Employed,231455.84,240,774,8678.61,High School,Married,0,Urban,1
+29,Male,10359.16,Employed,61444.73,60,726,47891.77,High School,Married,1,Rural,0
+18,Male,14471.77,Employed,75864.76,240,358,42730.87,Associate,Single,0,Semi-Urban,0
+61,Female,20411.7,Unemployed,95491.76,36,735,11524.74,Bachelor,Divorced,2,Urban,1
+22,Male,2582.33,Self-Employed,167616.97,60,396,16378.31,Bachelor,Single,2,Rural,0
+47,Female,20489.86,Employed,33968.41,120,795,10494.64,Bachelor,Married,0,Urban,1
+47,Female,5680.37,Employed,238716.58,36,577,24593.8,High School,Married,0,Semi-Urban,1
+34,Female,13595.07,Employed,217064.95,180,564,980.53,Bachelor,Single,2,Urban,1
+65,Male,20494.47,Employed,146417.94,60,308,33568.4,Bachelor,Single,0,Semi-Urban,0
+64,Male,7464.8,Employed,170139.28,240,756,26157.91,Bachelor,Married,1,Semi-Urban,1
+40,Male,7276.47,Employed,9081.82,120,572,44931.95,Bachelor,Married,0,Semi-Urban,0
+32,Female,10964.96,Employed,88041.47,36,307,8219.63,Bachelor,Single,1,Semi-Urban,0
+54,Male,22524.11,Employed,199936.76,180,507,40205.46,Bachelor,Married,0,Semi-Urban,1
+38,Male,1510.41,Student,23983.33,60,422,39598.05,Bachelor,Single,2,Urban,0
+31,Female,22682.5,Employed,74166.89,120,332,6359.06,High School,Single,0,Semi-Urban,1
+19,Male,5114.47,Employed,148397.72,24,812,19927.96,Bachelor,Married,0,Rural,0
+28,Male,24767.03,Employed,67821.19,180,503,8507.63,High School,Single,2,Rural,0
+68,Male,23938.9,Employed,233824.6,180,817,12736.03,High School,Married,0,Urban,1
+56,Female,13124.87,Employed,37109.36,60,816,13162.31,PhD,Married,0,Urban,1
+55,Male,13548.93,Employed,200361.62,360,742,27811.82,Master,Divorced,0,Rural,1
+51,Female,12816.41,Self-Employed,129447.43,240,638,20570.55,High School,Married,0,Semi-Urban,1
+55,Female,16432.93,Employed,188831.04,180,737,47386.64,Associate,Divorced,3,Semi-Urban,0
+67,Male,3631.96,Employed,81125.26,180,744,6318.51,High School,Married,2,Rural,1
+51,Female,2266.52,Student,131049.95,60,435,48684.61,Bachelor,Married,0,Urban,0
+35,Male,2856.02,Self-Employed,214924.66,180,686,11531.93,Bachelor,Divorced,2,Semi-Urban,1
+47,Male,11942.59,Employed,119385.13,36,324,38643.7,Master,Married,1,Rural,0
+32,Female,7975.38,Employed,93131.37,36,805,16948.5,Bachelor,Single,3,Semi-Urban,1
+44,Female,16117.93,Employed,136358.07,360,624,7154.07,Associate,Married,0,Urban,1
+68,Female,24822.39,Employed,180753.87,180,637,42894.46,Bachelor,Divorced,1,Urban,1
+51,Male,10578.59,Employed,113673.02,120,394,15443.04,Associate,Married,1,Urban,0
+69,Male,14985.27,Employed,235024.86,60,844,32942.77,Master,Married,0,Rural,1
+55,Male,11266.69,Employed,77261.73,180,445,28322.18,Master,Married,0,Urban,0
+50,Male,21410.88,Employed,121488.58,12,530,23587.82,Bachelor,Divorced,0,Urban,1
+41,Male,22702.56,Employed,190447.28,24,794,24790.97,Associate,Single,2,Rural,1
+32,Male,22117.86,Employed,173834.67,12,337,36611.9,High School,Married,0,Urban,0
+47,Male,24397.75,Employed,216592.06,120,724,4388.65,High School,Single,4,Urban,1
+59,Male,2146.7,Employed,249218.25,180,736,33409.03,Bachelor,Married,0,Urban,0
+68,Male,21235.68,Employed,109580.29,24,667,44790.61,Bachelor,Married,1,Urban,1
+34,Male,19166.65,Employed,32231.97,180,644,2889.41,Associate,Single,3,Semi-Urban,1
+22,Female,6874.32,Employed,12451.89,60,459,7032.67,Bachelor,Single,1,Rural,0
+46,Male,23973.52,Employed,183084.84,180,849,35831.6,Bachelor,Married,3,Rural,1
+21,Female,4982.18,Employed,219133.35,360,840,21864.08,High School,Single,2,Semi-Urban,0
+27,Female,17469.42,Employed,59074.58,180,443,20177.43,Master,Single,0,Semi-Urban,1
+34,Male,6784.92,Self-Employed,43819.77,240,644,6848.33,Master,Married,1,Semi-Urban,1
+27,Female,11637.45,Self-Employed,20240.25,360,568,25338.5,Master,Single,0,Urban,0
+34,Female,18400.26,Employed,206562.22,120,567,6327.27,Associate,Married,1,Urban,1
+37,Female,14738.13,Employed,81288.58,180,468,23831.02,High School,Divorced,0,Rural,0
+41,Male,11546.29,Employed,103415.74,240,332,38180.76,Associate,Single,2,Urban,0
+22,Male,9168.95,Employed,128173.8,60,676,12913.22,Associate,Single,1,Urban,1
+51,Male,21232.0,Employed,210666.04,60,513,24039.31,High School,Married,0,Semi-Urban,1
+23,Male,4879.64,Student,164454.14,360,739,49600.8,Bachelor,Married,0,Semi-Urban,0
+19,Female,11607.42,Employed,155690.83,180,791,34332.52,Bachelor,Divorced,4,Urban,1
+30,Female,22738.3,Employed,48039.66,60,692,42067.84,Master,Divorced,0,Urban,1
+60,Male,21377.46,Unemployed,130731.52,120,788,20742.38,High School,Married,0,Semi-Urban,1
+60,Female,10922.13,Student,180268.35,240,328,38393.05,Bachelor,Single,0,Semi-Urban,0
+65,Male,19433.05,Self-Employed,243448.92,120,338,2025.46,Bachelor,Single,4,Urban,0
+28,Male,20844.28,Employed,54344.55,180,472,6145.56,Bachelor,Single,4,Semi-Urban,1
+68,Female,22388.85,Employed,7338.12,240,316,10153.53,Master,Single,1,Semi-Urban,1
+64,Male,14295.89,Employed,23448.85,180,355,20097.6,Bachelor,Married,3,Rural,0
+40,Male,6304.83,Employed,97083.85,120,525,42287.24,Master,Married,0,Urban,0
+33,Male,7499.76,Employed,206033.44,180,366,17313.3,Associate,Single,4,Urban,0
+48,Male,8448.82,Employed,6749.81,180,496,32731.06,Bachelor,Married,0,Semi-Urban,0
+28,Female,15454.36,Student,116899.0,180,322,35465.71,High School,Single,0,Semi-Urban,0
+33,Female,2271.03,Employed,85661.5,60,536,29309.12,High School,Married,0,Urban,0
+25,Female,16447.0,Employed,17858.02,120,437,17862.1,High School,Married,1,Semi-Urban,1
+21,Female,10062.32,Employed,115307.89,360,772,28852.67,High School,Married,2,Urban,1
+57,Male,8438.18,Employed,67413.43,36,528,17113.28,High School,Married,0,Urban,0
+21,Male,22168.17,Employed,91211.78,60,616,4193.69,High School,Single,4,Semi-Urban,1
+42,Female,12310.06,Employed,177875.75,120,500,49640.2,High School,Married,0,Urban,1
+20,Male,3733.75,Employed,132779.99,240,557,6359.12,Master,Married,0,Rural,0
+49,Female,20928.55,Self-Employed,35538.62,36,779,3617.42,High School,Divorced,0,Semi-Urban,1
+20,Female,2619.57,Employed,240546.56,60,477,43926.54,Bachelor,Married,1,Semi-Urban,0
+44,Male,18578.61,Student,160798.14,24,422,15091.73,High School,Married,2,Semi-Urban,0
+46,Female,19686.8,Employed,192637.76,180,641,32514.85,Master,Married,0,Semi-Urban,1
+49,Female,9786.16,Employed,24407.22,60,470,16450.29,Master,Divorced,1,Urban,0
+67,Female,20882.51,Employed,16529.3,60,358,19572.71,Bachelor,Single,0,Rural,1
+68,Male,13618.0,Employed,9764.77,120,764,13105.65,Bachelor,Married,1,Rural,1
+36,Male,12387.4,Employed,51254.54,240,559,17152.2,High School,Married,4,Urban,0
+38,Male,2566.98,Employed,106530.06,120,672,20535.02,PhD,Married,0,Urban,0
+22,Male,8315.69,Self-Employed,234277.4,36,394,36020.8,Master,Single,3,Urban,0
+35,Male,23378.73,Self-Employed,116979.62,120,424,25576.81,Master,Married,1,Semi-Urban,1
+45,Female,10707.86,Employed,76112.5,360,340,47178.26,Bachelor,Single,0,Semi-Urban,0
+59,Male,14347.46,Self-Employed,142674.14,180,553,2094.02,Associate,Married,4,Rural,1
+39,Female,14002.51,Employed,32423.97,360,306,25153.42,Master,Married,0,Rural,0
+38,Female,15375.13,Self-Employed,154328.94,240,770,29211.24,High School,Divorced,0,Semi-Urban,1
+23,Female,2941.28,Employed,144265.83,12,810,46009.85,Bachelor,Married,0,Semi-Urban,0
+18,Male,10011.14,Employed,199038.29,180,368,2457.93,High School,Single,0,Semi-Urban,1
+22,Female,18493.51,Self-Employed,246738.46,60,380,28674.98,Master,Single,2,Semi-Urban,0
+58,Male,6213.17,Employed,66464.0,120,841,42681.5,High School,Divorced,1,Semi-Urban,0
+29,Male,6284.09,Self-Employed,129865.83,60,561,12096.39,High School,Single,3,Semi-Urban,0
+43,Female,1737.13,Employed,227672.02,60,388,43814.62,Bachelor,Married,0,Semi-Urban,0
+63,Male,11780.83,Employed,197371.52,360,507,952.17,Bachelor,Single,0,Semi-Urban,1
+51,Male,22244.26,Employed,124414.54,60,512,36622.73,Bachelor,Married,0,Semi-Urban,1
+66,Female,2719.67,Employed,236616.05,240,565,46655.66,High School,Married,1,Semi-Urban,0
+31,Male,5991.29,Employed,19022.99,12,592,32859.88,High School,Single,4,Semi-Urban,0
+43,Male,8786.99,Self-Employed,233094.66,24,506,21951.46,Bachelor,Single,1,Semi-Urban,0
+62,Male,18695.53,Employed,17374.31,240,632,2244.05,PhD,Divorced,0,Semi-Urban,1
+44,Female,16554.94,Self-Employed,139089.66,180,376,46005.69,Bachelor,Married,3,Semi-Urban,0
+26,Female,11274.68,Unemployed,223158.03,180,587,23514.81,Bachelor,Married,2,Urban,0
+43,Male,19338.12,Employed,69366.63,60,346,1449.84,Master,Divorced,0,Urban,1
+64,Male,15826.33,Unemployed,120700.88,120,499,34491.05,Associate,Divorced,2,Semi-Urban,0
+39,Male,22556.96,Student,84460.58,180,726,24091.86,Bachelor,Single,0,Semi-Urban,1
+64,Male,20723.63,Self-Employed,238275.26,180,509,6217.27,Bachelor,Divorced,0,Rural,1
+47,Female,7441.12,Self-Employed,206793.17,120,719,10713.59,Associate,Single,0,Semi-Urban,1
+60,Male,7878.81,Student,178705.37,360,453,3224.53,Bachelor,Single,0,Semi-Urban,0
+65,Male,4445.88,Employed,148968.61,180,821,28714.68,Bachelor,Divorced,0,Urban,0
+34,Female,9418.67,Employed,206044.99,360,714,31101.47,Associate,Single,0,Urban,0
+43,Female,24989.28,Self-Employed,101105.43,180,652,25287.11,High School,Single,0,Rural,1
+53,Female,11035.15,Employed,114650.2,180,456,40855.11,High School,Single,2,Urban,0
+18,Male,6681.48,Employed,183850.42,24,560,43050.44,Bachelor,Married,4,Semi-Urban,0
+25,Male,19418.35,Employed,92649.92,60,376,30781.22,High School,Married,2,Semi-Urban,0
+66,Male,14248.07,Self-Employed,20655.73,240,787,637.82,High School,Married,0,Semi-Urban,1
+52,Male,5015.63,Employed,23211.98,60,430,34761.48,Bachelor,Divorced,0,Rural,1
+69,Female,10446.21,Unemployed,33263.89,36,754,20899.96,Bachelor,Married,0,Semi-Urban,0
+32,Female,11240.04,Employed,218071.92,60,462,28277.87,Bachelor,Single,0,Urban,0
+64,Female,19215.0,Employed,120695.47,60,314,32454.03,Bachelor,Divorced,1,Rural,0
+39,Female,1985.78,Employed,179656.18,360,531,17511.83,Master,Single,1,Rural,0
+31,Male,7821.96,Employed,101262.79,240,494,45854.93,Master,Single,2,Urban,0
+43,Female,13663.51,Employed,68384.18,120,841,6698.74,Bachelor,Single,1,Urban,1
+45,Male,7817.9,Unemployed,90062.08,24,658,33575.59,Bachelor,Married,0,Urban,0
+40,Male,16268.2,Self-Employed,199574.67,180,630,217.98,Associate,Single,0,Urban,1
+31,Male,12823.89,Employed,158177.95,180,726,46232.56,PhD,Single,1,Rural,0
+41,Male,10000.19,Employed,234721.75,360,796,5625.21,High School,Single,0,Semi-Urban,1
+19,Male,23806.4,Self-Employed,171527.67,120,785,4744.21,High School,Single,0,Semi-Urban,0
+62,Female,16355.75,Unemployed,144694.5,60,748,16650.38,Associate,Married,0,Rural,0
+43,Male,4553.62,Employed,154498.02,120,712,18678.31,High School,Married,0,Semi-Urban,0
+31,Male,14662.15,Employed,235881.0,360,629,10715.0,PhD,Married,0,Urban,0
+68,Male,19847.2,Employed,198109.23,180,446,29256.08,Bachelor,Single,2,Rural,0
+24,Female,18149.51,Unemployed,10890.1,180,558,22145.7,Bachelor,Single,3,Rural,0
+20,Female,5544.1,Employed,135864.23,60,591,1708.78,Bachelor,Divorced,0,Rural,1
+64,Female,24351.87,Employed,173642.91,180,442,15982.6,Bachelor,Single,0,Semi-Urban,1
+40,Male,12047.12,Employed,188431.13,240,664,40521.65,High School,Divorced,2,Rural,0
+63,Female,5237.09,Unemployed,57219.82,60,389,34485.08,Bachelor,Single,0,Urban,0
+60,Male,5734.6,Employed,217458.45,120,463,36243.54,Bachelor,Divorced,0,Semi-Urban,0
+64,Female,3808.52,Employed,239181.57,60,780,34905.85,Associate,Single,0,Rural,1
+62,Female,20382.68,Employed,62995.25,60,383,15548.65,Bachelor,Married,0,Urban,1
+35,Male,4367.72,Employed,221240.79,12,376,4983.2,High School,Married,2,Rural,0
+55,Male,4440.44,Employed,28759.8,60,816,13623.36,High School,Married,2,Semi-Urban,0
+52,Male,21486.08,Self-Employed,18648.17,120,784,41589.27,High School,Single,0,Urban,1
+68,Male,9598.2,Unemployed,36659.83,12,403,49023.54,Associate,Married,0,Rural,0
+32,Male,2225.16,Self-Employed,19146.56,60,751,24692.35,Bachelor,Married,0,Urban,0
+42,Female,2719.54,Unemployed,212028.0,240,786,485.02,Bachelor,Single,0,Semi-Urban,1
+54,Male,4841.01,Employed,19467.29,120,638,7002.24,Associate,Single,4,Urban,0
+45,Male,6514.74,Self-Employed,71557.73,180,777,16104.03,Bachelor,Married,1,Rural,0
+27,Male,17130.94,Employed,30420.3,120,522,28929.27,Bachelor,Single,1,Urban,1
+56,Male,5197.17,Employed,77378.4,180,308,3754.68,High School,Married,2,Urban,1
+34,Female,4293.55,Student,27187.07,36,352,47167.86,High School,Single,2,Urban,0
+56,Male,19470.9,Employed,168660.8,240,376,18254.18,PhD,Married,2,Rural,0
+39,Female,17269.8,Employed,37665.07,36,802,45629.21,Bachelor,Single,0,Semi-Urban,1
+43,Female,11730.12,Employed,213702.25,180,615,39026.09,PhD,Married,0,Semi-Urban,1
+61,Female,14408.78,Employed,205211.81,60,464,37771.86,Associate,Single,1,Semi-Urban,0
+42,Female,8831.62,Employed,8347.11,180,578,30335.98,Bachelor,Single,0,Semi-Urban,0
+34,Male,12838.76,Self-Employed,224452.96,120,326,31339.19,High School,Single,4,Urban,0
+30,Female,13406.81,Student,12091.36,120,369,31900.16,High School,Divorced,1,Semi-Urban,0
+37,Male,10600.08,Employed,63713.22,36,517,31436.07,Bachelor,Single,4,Urban,0
+42,Male,22804.45,Employed,12935.34,180,664,27686.41,Associate,Married,0,Rural,0
+21,Female,1877.45,Employed,87281.65,360,605,49320.7,High School,Single,3,Rural,1
+27,Female,19881.02,Unemployed,130897.3,240,423,36614.53,High School,Single,0,Semi-Urban,0
+20,Female,4423.0,Employed,200177.99,24,318,38847.32,High School,Married,4,Urban,0
+58,Male,20242.36,Employed,87805.48,60,556,43623.14,Bachelor,Married,0,Rural,0
+62,Male,15973.93,Employed,177845.06,360,595,10781.99,Bachelor,Divorced,1,Urban,1
+35,Female,21317.04,Employed,50938.59,120,321,4190.21,High School,Divorced,2,Urban,1
+64,Male,3791.59,Employed,188896.62,180,749,24144.72,High School,Married,0,Urban,0
+53,Female,14636.04,Unemployed,62819.17,360,849,25704.03,High School,Married,0,Semi-Urban,0
+64,Female,13275.57,Employed,40168.47,240,347,41459.09,Bachelor,Married,4,Rural,0
+39,Male,18095.54,Employed,50425.17,120,482,22189.18,High School,Single,0,Urban,1
+51,Male,14055.83,Employed,49605.47,120,734,28542.65,Bachelor,Divorced,1,Urban,1
+64,Male,14207.26,Self-Employed,130651.41,60,406,26353.55,High School,Married,0,Semi-Urban,0
+25,Male,11595.5,Employed,211975.41,180,487,1910.14,High School,Married,2,Semi-Urban,1
+57,Female,8757.61,Employed,24503.24,60,385,30760.74,Master,Single,1,Urban,0
+66,Male,12833.21,Employed,178204.3,60,755,41402.16,Bachelor,Single,0,Urban,0
+61,Female,4284.57,Employed,165314.88,60,436,7875.03,High School,Divorced,0,Rural,0
+36,Male,24095.56,Self-Employed,218767.39,36,635,29716.59,Bachelor,Single,1,Rural,1
+59,Female,18288.65,Employed,64816.15,180,768,29680.53,Bachelor,Married,0,Rural,1
+58,Male,23882.98,Student,115276.92,180,702,8209.25,Bachelor,Single,0,Rural,1
+54,Male,6828.09,Employed,231827.71,120,839,6173.18,Bachelor,Married,1,Urban,1
+23,Male,22164.51,Self-Employed,166698.4,60,371,49002.6,Bachelor,Single,0,Urban,0
+69,Female,20506.56,Employed,100248.26,360,323,19685.96,PhD,Married,0,Urban,1
+43,Female,17413.08,Self-Employed,37196.03,12,784,11371.09,High School,Single,1,Urban,1
+51,Female,16188.19,Employed,69308.83,240,355,8566.23,Bachelor,Divorced,0,Rural,1
+62,Male,8938.92,Employed,147397.79,360,522,33380.09,Bachelor,Married,0,Rural,0
+23,Male,20685.65,Self-Employed,180951.15,120,478,30472.26,High School,Single,0,Semi-Urban,1
+54,Male,13285.61,Employed,35483.36,120,733,32177.61,High School,Married,1,Urban,1
+50,Male,3165.95,Employed,151901.33,360,749,4400.3,High School,Single,1,Rural,1
+39,Male,8852.28,Employed,139836.06,60,791,44676.73,Bachelor,Single,2,Rural,0
+38,Female,23479.48,Employed,130919.08,120,488,19463.32,Bachelor,Divorced,0,Urban,1
+23,Female,21490.99,Employed,174080.16,120,719,15668.47,Bachelor,Married,0,Rural,1
+23,Female,24574.78,Employed,210175.15,60,548,23118.07,High School,Single,0,Urban,1
+65,Female,16257.84,Employed,84132.47,240,463,19503.3,Bachelor,Single,0,Urban,1
+21,Male,7316.49,Self-Employed,222807.99,240,554,43178.85,Master,Single,3,Semi-Urban,0
+47,Male,5326.15,Employed,44355.24,240,775,46463.05,Associate,Divorced,0,Semi-Urban,0
+28,Male,5892.49,Self-Employed,47390.85,36,716,15172.66,Bachelor,Single,0,Urban,0
+47,Female,1965.2,Student,70359.16,24,469,43196.79,Bachelor,Divorced,0,Urban,0
+48,Male,10681.03,Employed,34285.06,180,616,39076.16,Bachelor,Divorced,1,Rural,1
+41,Male,5998.55,Employed,61428.21,24,473,46540.38,Bachelor,Single,1,Semi-Urban,0
+26,Male,11173.9,Employed,31070.88,180,769,12287.52,Master,Single,1,Semi-Urban,1
+20,Male,23472.37,Employed,206329.34,120,644,28847.96,Associate,Divorced,3,Urban,1
+68,Female,11617.69,Student,39047.4,180,744,13727.23,Master,Single,0,Urban,1
+48,Female,22132.64,Employed,188087.9,120,317,41204.72,High School,Single,0,Urban,0
+57,Male,15729.36,Employed,16738.9,120,369,266.21,High School,Single,0,Urban,1
+54,Female,7307.59,Employed,237387.48,60,637,28240.96,High School,Married,1,Urban,0
+53,Female,9862.59,Employed,179234.22,60,826,16960.17,Bachelor,Married,1,Urban,1
+41,Male,3472.11,Employed,6665.15,120,755,16134.19,Associate,Single,1,Semi-Urban,0
+48,Male,9336.37,Employed,192144.84,180,568,32245.32,High School,Single,1,Urban,0
+23,Male,17422.21,Student,130950.07,240,487,42574.22,High School,Divorced,1,Rural,0
+19,Male,3194.61,Employed,195944.47,240,828,30459.77,Master,Married,3,Urban,0
+37,Female,6326.93,Employed,133011.72,360,733,42658.65,Bachelor,Married,1,Semi-Urban,0
+45,Male,10463.86,Unemployed,162051.09,60,587,13229.86,Bachelor,Married,2,Urban,0
+28,Female,24578.16,Employed,197651.26,24,798,25975.09,Bachelor,Married,0,Semi-Urban,1
+21,Male,19944.25,Unemployed,104251.47,60,740,22526.83,Bachelor,Married,1,Urban,0
+32,Male,18736.94,Student,5663.5,180,602,582.24,Associate,Single,3,Rural,1
+23,Male,4230.49,Self-Employed,213236.89,120,386,27840.61,Master,Single,0,Rural,0
+66,Male,19853.4,Self-Employed,98318.14,240,737,33076.22,High School,Married,2,Semi-Urban,1
+47,Male,19953.82,Employed,126530.47,120,840,29595.72,Associate,Married,2,Urban,1
+55,Female,15625.91,Student,6902.83,360,321,36813.99,Associate,Divorced,0,Semi-Urban,0
+68,Male,24773.5,Employed,125562.54,360,816,28566.98,Bachelor,Single,1,Rural,1
+19,Female,9143.47,Self-Employed,246689.41,24,802,3337.51,Bachelor,Divorced,0,Urban,1
+32,Male,23619.9,Unemployed,73175.58,120,766,5822.28,Bachelor,Divorced,4,Semi-Urban,1
+28,Male,22996.18,Student,101877.48,180,400,29823.73,High School,Single,2,Rural,0
+25,Male,1769.8,Self-Employed,173361.55,60,440,13748.96,Bachelor,Married,0,Rural,0
+43,Female,12077.74,Employed,204624.45,120,437,3982.26,High School,Married,0,Rural,1
+68,Male,24461.95,Student,107260.95,180,527,21480.14,High School,Divorced,1,Rural,1
+62,Male,3923.35,Employed,80868.87,60,580,27716.13,High School,Married,0,Rural,0
+61,Female,14372.94,Student,234767.32,180,730,16437.3,Bachelor,Married,0,Semi-Urban,1
+22,Male,24505.5,Employed,170900.52,180,339,36021.69,Associate,Married,1,Semi-Urban,0
+23,Male,14554.14,Employed,34160.22,24,818,32188.53,Bachelor,Single,0,Rural,1
+43,Male,5960.66,Employed,21887.33,120,510,16640.92,Bachelor,Single,0,Semi-Urban,0
+21,Female,15181.31,Employed,123469.71,60,601,37743.63,Bachelor,Married,2,Rural,0
+36,Female,6304.35,Self-Employed,58922.07,180,385,32434.75,Bachelor,Married,3,Urban,0
+37,Male,13713.05,Employed,67226.26,36,696,31872.27,Associate,Married,2,Semi-Urban,1
+50,Male,3239.99,Employed,220034.58,240,552,27671.39,Associate,Married,2,Urban,0
+37,Female,15728.84,Employed,26943.68,120,832,569.48,Bachelor,Single,0,Urban,1
+66,Female,13644.56,Self-Employed,180264.21,36,680,34825.36,Bachelor,Married,0,Urban,0
+29,Male,18893.79,Employed,71429.85,120,743,18802.09,Bachelor,Single,0,Semi-Urban,1
+64,Female,16321.46,Employed,191280.41,120,332,47130.49,Master,Married,2,Urban,0
+18,Male,14415.75,Employed,181990.79,120,559,40899.24,High School,Divorced,3,Semi-Urban,0
+43,Male,17709.8,Employed,6811.02,120,533,29384.72,High School,Married,2,Semi-Urban,1
+31,Female,4882.63,Employed,129738.18,120,814,12609.1,Bachelor,Single,3,Urban,0
+55,Male,15490.95,Employed,39133.27,36,607,10185.87,Associate,Single,1,Urban,1
+54,Female,5544.6,Employed,217225.62,24,369,17019.24,High School,Married,0,Semi-Urban,0
+28,Female,23249.77,Student,218538.54,180,753,23828.4,Master,Married,0,Rural,1
+53,Female,3105.85,Unemployed,107494.72,120,738,14803.28,High School,Married,0,Rural,0
+30,Male,11613.81,Employed,113876.93,60,663,25746.47,Master,Single,0,Rural,0
+60,Male,17851.24,Student,79304.32,240,780,8268.52,Bachelor,Married,1,Rural,1
+20,Male,12263.52,Employed,180568.54,60,443,48885.64,Bachelor,Married,0,Semi-Urban,1
+50,Female,3664.24,Employed,92872.03,240,323,5396.23,High School,Single,1,Rural,0
+23,Male,14504.41,Employed,70609.16,60,724,46597.21,High School,Married,1,Rural,0
+67,Male,16578.35,Employed,110896.61,24,474,45678.9,Bachelor,Single,0,Rural,0
+27,Female,18039.12,Employed,27414.44,360,624,26268.02,High School,Married,0,Urban,1
+22,Male,10271.61,Employed,187917.79,60,647,36245.51,Associate,Divorced,0,Rural,0
+40,Female,14746.01,Employed,8086.12,240,317,21802.41,Associate,Married,0,Semi-Urban,0
+27,Male,12091.13,Self-Employed,162898.84,60,343,31501.73,High School,Married,2,Rural,0
+61,Female,17293.32,Employed,49801.81,180,454,17028.8,High School,Married,0,Urban,1
+19,Male,15213.59,Employed,61938.99,240,676,15057.95,Bachelor,Single,1,Semi-Urban,1
+30,Male,13855.27,Employed,160729.84,12,701,28911.49,High School,Married,3,Urban,0
+57,Male,7363.82,Employed,248271.15,240,524,24906.48,High School,Married,3,Urban,0
+19,Male,1547.44,Employed,195540.78,120,516,28976.82,Bachelor,Single,3,Urban,0
+37,Female,5590.92,Employed,60330.71,180,330,14333.03,PhD,Single,0,Rural,1
+18,Female,4251.05,Unemployed,48126.06,120,358,18347.89,Associate,Married,0,Urban,0
+54,Female,12053.49,Employed,217227.05,240,652,4194.9,High School,Single,0,Urban,1
+26,Male,15888.07,Employed,113825.07,12,744,2613.82,Bachelor,Single,0,Urban,1
+34,Male,6507.5,Employed,38577.94,60,534,12672.86,Master,Married,3,Semi-Urban,0
+26,Male,23567.84,Employed,216241.8,240,406,3712.34,Bachelor,Single,1,Urban,1
+28,Female,1657.03,Employed,204942.63,240,490,5188.74,Bachelor,Divorced,0,Urban,0
+32,Female,19649.07,Employed,246057.06,12,829,40646.42,Associate,Single,0,Semi-Urban,1
+41,Male,16192.31,Employed,227887.2,120,544,1943.68,Bachelor,Married,0,Semi-Urban,1
+55,Male,10278.54,Employed,213688.63,120,375,32947.14,High School,Married,1,Urban,0
+52,Female,2686.49,Employed,17880.73,120,846,13627.89,Bachelor,Married,2,Urban,0
+47,Female,16245.93,Employed,30581.77,60,566,43577.28,Bachelor,Single,3,Urban,0
+48,Female,10561.92,Employed,144400.88,180,616,24249.61,Master,Divorced,3,Rural,0
+66,Female,23502.28,Employed,135212.42,60,420,15278.82,High School,Married,0,Semi-Urban,1
+22,Male,14236.77,Employed,117200.99,240,324,25881.95,High School,Married,0,Semi-Urban,0
+61,Male,23581.81,Employed,102213.38,240,731,19097.9,Bachelor,Single,0,Urban,1
+67,Female,6681.37,Employed,110646.57,120,459,28215.05,Bachelor,Single,0,Semi-Urban,0
+31,Female,18554.56,Employed,144477.99,60,413,5726.64,Bachelor,Married,3,Urban,1
+28,Male,16005.35,Employed,5508.75,60,801,49849.53,High School,Single,1,Urban,1
+26,Female,18876.09,Employed,68873.65,120,465,21277.79,High School,Married,2,Semi-Urban,1
+51,Female,6544.69,Unemployed,131978.53,180,474,17411.53,Bachelor,Single,0,Semi-Urban,0
+29,Female,17127.37,Employed,181942.94,60,300,35510.49,Associate,Married,0,Urban,0
+52,Female,13203.95,Unemployed,47668.39,180,385,18194.97,Master,Divorced,0,Semi-Urban,1
+52,Male,18956.39,Employed,138985.89,60,619,41663.72,Bachelor,Married,1,Rural,0
+18,Male,9185.55,Employed,180042.62,60,700,22713.54,Bachelor,Married,2,Semi-Urban,0
+57,Male,22416.34,Employed,113933.78,12,681,35977.92,Bachelor,Married,0,Semi-Urban,1
+39,Female,3481.08,Employed,11634.88,12,617,5372.66,Bachelor,Married,2,Rural,0
+46,Female,20468.95,Employed,115070.7,60,549,42305.96,Associate,Divorced,2,Rural,0
+25,Female,21741.01,Employed,77629.0,120,824,36785.9,Bachelor,Divorced,0,Semi-Urban,1
+28,Male,20705.43,Employed,232764.15,240,555,10585.84,High School,Married,2,Semi-Urban,1
+58,Female,13549.07,Employed,35530.28,240,606,7264.3,Bachelor,Single,0,Urban,1
+54,Female,11802.05,Self-Employed,164856.61,60,443,15814.62,High School,Married,1,Semi-Urban,1
+31,Female,24912.16,Unemployed,17916.34,60,690,48803.53,Bachelor,Single,2,Urban,0
+47,Female,6885.54,Employed,114311.76,60,468,12841.58,Associate,Married,4,Urban,0
+52,Female,14351.59,Employed,140724.97,60,597,22806.36,High School,Married,0,Semi-Urban,1
+38,Male,17260.87,Employed,77998.96,120,532,1501.01,Master,Married,0,Urban,1
+54,Male,17970.39,Employed,116493.53,120,570,19861.38,High School,Divorced,0,Semi-Urban,1
+22,Male,6294.58,Employed,45070.68,60,359,28566.0,Bachelor,Married,0,Semi-Urban,0
+36,Male,16868.86,Student,79510.34,36,595,47656.23,PhD,Single,1,Semi-Urban,0
+31,Female,20731.68,Employed,157171.05,12,766,25836.8,High School,Divorced,3,Urban,1
+43,Female,2675.44,Employed,78941.01,36,534,40955.37,Bachelor,Single,0,Urban,0
+21,Male,22920.75,Employed,225437.05,180,533,27356.38,High School,Married,0,Semi-Urban,1
+42,Male,2193.35,Self-Employed,158959.7,60,667,2039.25,High School,Single,0,Rural,0
+62,Female,9865.32,Employed,112469.01,120,531,15750.41,Associate,Single,0,Urban,1
+59,Male,1871.61,Employed,14495.45,120,790,28777.48,Master,Divorced,0,Urban,0
+42,Male,3312.91,Student,127389.34,240,802,47529.7,High School,Single,0,Rural,0
+35,Male,22912.45,Employed,192370.18,240,680,42956.52,Bachelor,Married,2,Urban,1
+57,Male,9839.23,Unemployed,70061.61,180,727,11417.78,Bachelor,Single,0,Rural,0
+25,Male,11482.13,Employed,202659.52,12,663,11005.49,Master,Divorced,1,Semi-Urban,0
+56,Male,6560.59,Self-Employed,66692.66,120,501,10058.65,High School,Divorced,2,Semi-Urban,0
+57,Male,15531.75,Employed,206817.87,240,445,46124.94,Bachelor,Single,0,Urban,1
+31,Female,15477.88,Employed,25890.74,12,756,42633.31,Bachelor,Single,1,Urban,0
+49,Male,10246.71,Unemployed,217215.01,120,434,38744.17,Bachelor,Married,1,Urban,0
+68,Female,9326.32,Employed,127300.68,240,563,19636.76,Master,Single,1,Rural,0
+55,Male,22296.66,Employed,77651.71,120,363,25219.04,Bachelor,Married,0,Semi-Urban,1
+50,Male,10507.18,Employed,69952.75,12,790,23216.59,High School,Single,0,Semi-Urban,1
+40,Female,13097.27,Employed,110842.59,12,340,12669.91,Bachelor,Single,2,Rural,1
+32,Male,8157.66,Employed,249767.13,120,595,25251.4,Associate,Married,2,Urban,0
+50,Male,19989.08,Employed,58980.21,36,302,1524.83,Associate,Single,0,Semi-Urban,1
+42,Female,10840.03,Employed,30288.08,180,409,6590.52,Bachelor,Divorced,0,Semi-Urban,1
+34,Female,13569.86,Employed,148333.62,180,520,44329.48,Associate,Single,0,Rural,0
+50,Male,7453.89,Employed,124692.9,36,669,37583.99,Associate,Single,0,Urban,0
+64,Male,24710.0,Employed,133428.09,240,667,21143.42,PhD,Divorced,1,Semi-Urban,1
+19,Female,8350.15,Self-Employed,168399.18,120,735,25857.52,High School,Married,0,Rural,1
+31,Male,19612.45,Unemployed,70450.3,36,303,18499.94,Master,Married,0,Semi-Urban,0
+57,Female,11546.15,Self-Employed,228112.92,240,543,37038.99,Bachelor,Single,2,Urban,0
+57,Female,6346.11,Employed,111739.66,240,465,39209.36,Bachelor,Married,0,Semi-Urban,1
+68,Female,20293.39,Employed,36626.12,180,325,38164.26,Bachelor,Married,2,Urban,0
+56,Male,9339.76,Employed,186863.2,240,694,36130.59,Associate,Single,2,Semi-Urban,1
+68,Female,21832.04,Employed,162560.57,180,773,10225.22,Associate,Married,0,Rural,1
+23,Male,23008.54,Employed,82357.13,240,316,16898.5,Associate,Married,2,Semi-Urban,1
+23,Male,21705.86,Employed,157272.09,120,391,23492.27,Associate,Single,2,Semi-Urban,1
+20,Male,2322.69,Employed,58866.18,180,782,16539.65,Master,Married,0,Semi-Urban,0
+24,Female,20003.27,Student,113985.64,360,842,37747.01,Bachelor,Married,0,Urban,1
+68,Male,11166.48,Employed,225356.07,180,504,16467.68,High School,Single,1,Urban,0
+25,Male,22032.49,Employed,37715.89,36,801,6911.6,High School,Married,3,Rural,1
+59,Male,16491.93,Employed,99740.63,120,699,19952.02,Associate,Single,1,Semi-Urban,1
+69,Female,21090.61,Employed,206179.89,120,506,48995.72,High School,Married,0,Urban,0
+32,Female,13236.65,Unemployed,242525.27,36,445,11294.07,Bachelor,Married,1,Urban,0
+64,Female,14073.1,Employed,116211.9,360,400,30607.93,High School,Married,0,Semi-Urban,0
+46,Male,4893.11,Employed,129214.91,36,540,21648.65,Bachelor,Divorced,1,Rural,0
